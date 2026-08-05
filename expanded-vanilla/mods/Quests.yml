@@ -131,6 +131,19 @@ mods:
     plugins:
       - Tel_Eurus.esp
 
+  - name: Lord of Rebirth
+    url: https://www.nexusmods.com/morrowind/mods/53680
+    download_info:
+      - file_name: Lord of Rebirth
+        extract_to: main
+      - file_name: OpenMW high quality icons_Added Anroha's sabers
+        extract_to: hqicons
+    data_paths:
+      - main
+      - hqicons
+    plugins:
+      - Lord of Rebirth.ESP
+
   - name: Frozen in Time
     url: https://www.nexusmods.com/morrowind/mods/50077
     download_info:
