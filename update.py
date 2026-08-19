@@ -71,8 +71,7 @@ def main():
     groundcover = []
 
     for (field, filename, prefix, insert_above) in (
-            ("data paths", "data_paths",
-             "data=C:\\games\\OpenMWMods\\", "Tools/MOMWToolsPack"),
+            ("data paths", "data_paths", "data=C:\\games\\OpenMWMods\\", "MOMWToolsPack"),
             ("fallback archives", "archives", "fallback-archive=", None),
             ("content files", "plugins", "content=", "momw-gameplay.omwscripts"),
             ("groundcover files", "groundcover", "groundcover=", "groundcover.omwaddon")):
@@ -83,6 +82,7 @@ def main():
 
                 if field == "data paths":
                     line = line.replace("\\", "/")
+                    line = line[line.index("/")+1:]
 
                 if field == 'groundcover files':
                     groundcover.append(line)

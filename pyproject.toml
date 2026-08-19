@@ -1,4 +1,5 @@
 [project]
-dependencies = [
-  "PyYAML"
-]
+dependencies = ["PyYAML"]
+
+[tool.autopep8]
+max_line_length = 1000000
