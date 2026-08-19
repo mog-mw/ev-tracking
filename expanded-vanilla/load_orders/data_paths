@@ -379,7 +379,7 @@ CitiesTowns/RRModSeriesTelvanniLighthouseTelVos/02 - Main ESP - English
 CitiesTowns/OAABTelMora/00 Core
 CitiesTowns/OAABTelMora/01 Female Guards
 CitiesTowns/OAABTelMora/02 HD Textures
-CitiesTowns/OAABTelMora/03 SSQN OpenMW
+CitiesTowns/OAABTelMora/03 OpenMW Addons
 CavesandDungeons/KumarahazTheBanditLair/Kumarahaz - The Bandit Lair
 CitiesTowns/TelBranoraExpansion/00 Core
 PatchesFixesandConsistency/KatyasPatchesandmodrecommendations
@@ -480,7 +480,6 @@ Randomizers/WanderingCreatureMerchantsLuaEdition/00 Core
 Randomizers/WanderingCreatureMerchantsLuaEdition/01 Extra
 Gameplay/PickpocketRebalanceOpenMW/Pickpocket Rebalance
 PatchesFixesandConsistency/VariousModsandPatches/AlchemicalHustleIngredientsPatch
-PatchesFixesandConsistency/VariousModsandPatches/OAABTombsTowersDiverseBloodPatch
 Armor/MageRobes/00 Core
 Armor/MageRobes/04 HD Textures
 Armor/MageRobesforOpenMWLua
@@ -503,7 +502,7 @@ PatchesFixesandConsistency/MOMWPatches/41 Blademeister+Daedric Shrine Overhaul S
 Armor/ArgonianFullHelmsLoreIntegratedandModdersResourcev11/Argonian Full Helms Lore Integrated v1.1/Data Files
 Armor/BootsforBeastsAmenophisRevision/0 Core
 Armor/BootsforBeastsAmenophisRevision/TR
-Armor/HistHelmsMoreArgonianShapedHelms/Hist Helms - LeFemm
+Armor/HistHelmsMoreArgonianShapedHelms/Hist Helms - Lefemm
 Gameplay/ProtectedBeasts/00 Core
 Gameplay/ProtectedBeasts/01 Argonian Full Helms
 Gameplay/ProtectedBeasts/02 Argonian Full Helms Tamriel Data
@@ -574,6 +573,7 @@ Quests/AncientFoes/Ancient Foes - Version 1.1
 Quests/AFFresh
 Quests/FargothSaysHello
 GuildsFactions/WilhelmoftheAedra
+PatchesFixesandConsistency/WilhelmoftheAedraTopicFixESP
 CitiesTowns/BalmoraGravemarket
 PatchesFixesandConsistency/MOMWPatches/33 AFFresh+Library of Vivec Enhanced Patch
 CavesandDungeons/CrownofUrshilaku
@@ -669,14 +669,7 @@ Flora/ParasolParticles/01 OAAB_Data Patch
 PatchesFixesandConsistency/MOMWPatches/15 Perfectly Proficient Parasol Particles Performance Patch/00 Project Atlas
 VFX/NoShieldSparkle
 VFX/SubtleMagicGlow/fade
-VFX/DiverseBlood/Data Files
-VFX/DiverseBloodforTamrielRebuiltandProjectTamriel/Diverse Blood - Tamriel Data/00 Core
-VFX/DiverseBloodforTamrielRebuiltandProjectTamriel/Diverse Blood - Tamriel Data/01 Tamriel Rebuilt
-VFX/DiverseBloodforTamrielRebuiltandProjectTamriel/Diverse Blood - Tamriel Data/02 Project Cyrodiil
-VFX/DiverseBloodforTamrielRebuiltandProjectTamriel/Diverse Blood - Tamriel Data/03 Skyrim Home of the Nords
-PatchesFixesandConsistency/VariousModsandPatches/OAABGrazelandsDiverseBloodPatch
-PatchesFixesandConsistency/VariousModsandPatches/OAABShipwrecksDiverseBloodPatch
-PatchesFixesandConsistency/VariousModsandPatches/OAABTelMoraDiverseBloodPatch
+VFX/DiverseBloodOpenMWLua
 SkiesandWeather/SolthasBlightWeatherPack/Solthas Blight Weather Pack
 PatchesFixesandConsistency/DistantFixesLuaEdition
 Groundcover/LushSynthesis
@@ -729,7 +722,6 @@ FurnitureandClutter/DunmerLanternsReplacer/03 Ashlander Lanterns Retexture 1
 FurnitureandClutter/DunmerLanternsReplacer/04 Tamriel_Data Patch - Glow Effect
 FurnitureandClutter/DunmerLanternsReplacer/05 OAAB_Data Patch - Glow Effect
 PatchesFixesandConsistency/AnimatedMorrowindandWeaponSheathingpatchforOpenMW
-PatchesFixesandConsistency/VariousModsandPatches/OAABDiverseBloodpatch
 PatchesFixesandConsistency/MOMWPatches/05 AFFresh+Samarys Ancestral Tomb Expanded Patch
 PatchesFixesandConsistency/MOMWPatches/10 Ebonheart Underworks MOMW Patch
 PatchesFixesandConsistency/MOMWPatches/13 Doors of Oblivion+TOTSP Patch

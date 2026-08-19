@@ -67,14 +67,7 @@ OAAB - Foyada Mamaea.ESP
 Manor Banners.ESP
 mistify.ESP
 The Dream is the Door.ESP
-Bob's Diverse Blood.ESP
-Diverse Blood - Tamriel Data.ESP
-Diverse Blood - Tamriel Rebuilt.esp
-Diverse Blood - Project Cyrodiil.ESP
-Diverse Blood - SHotN.ESP
-OAAB - Diverse Blood Patch.omwaddon
-OAAB_Grazelands - Diverse Blood Patch.omwaddon
-OAAB - Tombs and Towers - Diverse Blood Patch.omwaddon
+diverse-blood-openmw-lua.omwscripts
 Silt Strider Animation Restored.ESP
 Hospitality_Papers_Expanded_v2.7.esp
 Cutting Room Floor - Characters.esp
@@ -120,6 +113,7 @@ AFFresh+SamarysAncestralTombExpanded.esp
 AFFreshLibraryOfVivecEnhanced.esp
 AFFargoth.ESP
 AFFA_Wilhelm.esp
+AFFA_Wilhelm_TopicFix.esp
 DM_CrownOfUrshilaku.ESP
 DM_RiverOfFire.ESP
 SuranBarrierRocks.ESP
@@ -178,7 +172,6 @@ Dunmer Stronghold - Rotheran V1.0.esp
 Dunmer Stronghold - Valenvaryon V1.0.esp
 Uncharted Artifacts.esp
 OAAB - Shipwrecks.esm
-OAAB - Shipwrecks - Diverse Blood Patch.omwaddon
 OAAB - Shipwrecks - TR Patch.ESP
 Justice4Khartag.esp
 OAAB_Shipwrecks_JFK_patch.esp
@@ -320,7 +313,6 @@ Berandas Overhaul.esp
 The_corprusarium_Exp.ESP
 Corprusarium_Doors_of_Oblivion_Patch.ESP
 AetherPiratesDiscoveryCorprusariumExperiencePatch.esp
-OAAB_Tel Mora_Female Guards.ESP
 distant-fixes-lua-edition.omwscripts
 tamrielrebuilt.omwscripts
 ScalableDwemerPuzzleBoxRandomizer.omwscripts
@@ -514,8 +506,8 @@ RoaringArena_Solstheim.ESP
 UL_-_BCoM_Arena_Patch.esp
 Expansion Delay.ESP
 Early Transport to Mournhold.esp
-OAAB_Tel Mora.ESP
-OAAB_Tel Mora - Diverse Blood Patch.omwaddon
+OAAB_Tel Mora.esm
+OAAB_Tel Mora_Female Guards.ESP
 UL_-_OAAB_Tel_Mora_Patch.esp
 Kumarahaz Bandit Lair.ESP
 Blademeister_Kumarahaz_Patch.esp
