@@ -316,14 +316,12 @@ mods:
     data_paths:
       - 02 Of Murk and Mussels - A Sadrith Mora Trader
       - 03 Of Musk and Mer - A Sadrith Mora Tale
-      - 04 Of Melodies and Moonlight -  A Sadrith Mora Artist
       - 06 OAAB Market
       - 08 Shipyards of Vvardenfell
     plugins:
       - Shipyards of Vvardenfell.esp
       - OAAB Market.ESP
       - Of_Murk_and_Mussels.esp
-      - Melodies and Moonlight.esp
       - Of Musk and Mer A Sadrith Mora Tale.esp
 
   - name: The Wolverine Hall

@@ -52,3 +52,8 @@ mods:
     plugins:
       - StatsWindow.ESP
       - StatsWindow.omwscripts
+
+  - name: H3lp Yours3lf - OpenMW Helper Interfaces
+    url: https://www.nexusmods.com/morrowind/mods/56417
+    download_info:
+      - file_name: H3lp Yours3lf

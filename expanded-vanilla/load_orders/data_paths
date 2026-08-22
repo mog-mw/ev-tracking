@@ -1,4 +1,6 @@
 Morrowind/Data Files
+StaticSwitchingSystem/static_switching_system
+H3lpYours3lfOpenMWHelperInterfaces
 PatchforPurists
 BeautifulCitiesofMorrowind/Patches/54 Area of effect Arrows
 ExpansionDelay
@@ -12,11 +14,11 @@ FMINotAllDunmer
 FMIServiceRefusalandContraband
 IndorilandHerHandArmorPrivilegesOpenMW
 IndorilandHerHandArmorPrivilegesOpenMW/TR
-CuttingRoomFloor/Data Files
-CuttingRoomFloor/patches/Tamriel Rebuilt/Data Files
-CuttingRoomFloor/patches/Tomb of the Snow Prince/Data Files
+CuttingRoomFloor/Cutting Room Floor - Modular/Data Files
+CuttingRoomFloor/Cutting Room Floor - Modular Patches/Tamriel Rebuilt/Data Files
+CuttingRoomFloor/Cutting Room Floor - Modular Patches/Tomb of the Snow Prince/Data Files
 CuttingRoomFloor/optimized_banner/Data Files
-CuttingRoomFloor/HQ/Data Files
+CuttingRoomFloor/Cutting Room Floor - High Resolution Textures/Data Files
 MOMWPatches/06 Cutting Room Floor+BCOM Patch
 ArtifactsReinstated/Data Files
 MinesandCaverns/Mines and Caverns
@@ -252,7 +254,7 @@ BlightedAnimalsRetextured
 Varioustweaksandfixes/BlightedAnimalsRetexturedMET
 RieklingFixandExpansion/00 Core
 RieklingFixandExpansion/02 Bloodmoon Rebalance - Eng
-OAABIntegrations
+TamrielicIntegrations
 FMIUniqueLoreFriendlyCaveRats
 WingedTwilightRebalance
 AtronachRebalance
@@ -268,11 +270,9 @@ AlmalexiaRedone/HD
 YetAnotherGuardDiversity
 BeautifulCitiesofMorrowind/Patches/29 Yet Another Guard Diversity - Cephalopod Armor - Waterworks
 VEHKConceptartVivecreplacer/Data files
-WaresUltimate/02 Wares to vanilla lists
 WaresUltimate/03 TD to Wares
 WaresUltimate/04 OAAB to Wares
 WaresUltimate/06 Wares to Traders
-WaresUltimate/09 Wares to containers
 StuporstarsBooksforWares/00 Core
 StuporstarsBooksforWares/01 OAAB
 RepopulatedMorrowind/00 Core
@@ -287,10 +287,9 @@ LDMContextMatters
 MOMWPatches/47 Vivec's Muatra Alternative
 ByAzura/00 Core
 ByAzura/01 High Res Textures
-AttendMe/AttendMe_1.9
-MOMWPatches/45 Attend Me Patch
 FollowerDetectionUtilOpenMW
 FriendlierFireOpenMW
+BestFriendsForeverOpenMW
 MAiqontheMainlandandothermods
 InvestigationsatTelEurus/Data Files
 InvestigationsatTelEurus/Extras for OpenMW only
@@ -307,7 +306,6 @@ DjangosDialogue14/Djangos Dialogue 1.44
 BardsofBardenfell/Bards of Bardenfell
 ShadySam/Shady Sam
 DiverseKhajiitNewandImproved
-StaticSwitchingSystem/static_switching_system
 MOMWPatches/36 WhiteSuran OpenMW Lua
 ImmersiveMournhold
 MOMWPatches/82 Immersive Mournhold Corner Tower Remover Patch
@@ -396,6 +394,8 @@ MOMWPatches/75 AldRuhnOutskirtsAncestralRefuge+LittleLandscapesNixHoundHuntingGr
 RavenRockEnhanced
 NordicSolstheimSolstheimInteriorsOverhaul/00 Core
 NordicSolstheimSolstheimInteriorsOverhaul/01 Cliff Racer Restored
+TheStoneHallsofSolstheimReforged/00 Core
+TheStoneHallsofSolstheimReforged/02 TotSP Solstheim (Choose ONLY One)
 TelvanniSeaBeacons
 OAABtoRRTelvanniConsistency
 PlantersforAjira/Planters for Ajira
@@ -404,7 +404,6 @@ DagonFelLighthouse/00 Core
 DagonFelLighthouse/01 Nordic Interior Detailing
 SadrithMoraBCOMPlusModule/02 Of Murk and Mussels - A Sadrith Mora Trader
 SadrithMoraBCOMPlusModule/03 Of Musk and Mer - A Sadrith Mora Tale
-SadrithMoraBCOMPlusModule/04 Of Melodies and Moonlight -  A Sadrith Mora Artist
 SadrithMoraBCOMPlusModule/06 OAAB Market
 SadrithMoraBCOMPlusModule/08 Shipyards of Vvardenfell
 RepopulatedMorrowind/08 Silent AM Sounds
@@ -438,7 +437,8 @@ MOMWPatches/86 Practical Necromancy+OAAB Fix
 PharisMagickaRegeneration
 SpellEffectsRebalance
 HiddenSeaLoot
-DevilishVampireOverhaul/Data Files
+BetterVampiresVampireOverhaulforOpenMW
+BetterVampiresVampireOverhaulforOpenMW/optimized
 NoWitnessNoBounty
 ShieldUnequipper
 CorporealCarryableContainers/Corporeal-Carryable-Containers-master

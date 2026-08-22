@@ -187,14 +187,12 @@ mods:
     plugins:
       - Djangos Dialogue.ESP
 
-  - name: Attend Me
-    url: https://www.nexusmods.com/morrowind/mods/51232
+  - name: Best Friends Forever (OpenMW)
+    url: https://www.nexusmods.com/morrowind/mods/59384
     download_info:
-      - file_name: AttendMe 1.9
-    data_paths:
-      - AttendMe_1.9
+      - file_name: BestFriendsForever
     plugins:
-      - AttendMe.omwscripts
+      - BestFriendsForever.omwscripts
 
   - name: Wandering Umbra
     url: https://www.nexusmods.com/morrowind/mods/44913

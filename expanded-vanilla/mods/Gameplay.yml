@@ -337,16 +337,19 @@ mods:
     plugins:
       - Corporeal-Carryable-Containers.omwscripts
 
-  - name: Devilish Vampire Overhaul
-    url: https://www.nexusmods.com/morrowind/mods/52969
+  - name: Better Vampires - Vampire Overhaul for OpenMW
+    url: https://www.nexusmods.com/morrowind/mods/55912
     download_info:
-      - file_name: Devilish Vampire Overhaul (Total Overhaul Edition)
+      - file_name: Better Vampires - Vampire Overhaul for OpenMW
+      - file_name: Optimized Feeding Script
+        extract_to: optimized
     data_paths:
-      - Data Files
+      - ''
+      - optimized
     plugins:
-      - Devilish_Vampire_Overhaul.esp
-      - Devilish_Vampire_Overhaul.omwscripts
-      - Devilish_Vampire_Overhaul_TR_Dialogue_Patch.ESP
+      - Better Vampires.ESP
+      - Better Vampires TD.ESP
+      - Better_Vampires.omwscripts
 
   - name: No Witness - No Bounty
     url: https://www.nexusmods.com/morrowind/mods/53384
@@ -398,29 +401,25 @@ mods:
             arguments: [delete, --backup-dir, tes3cmdbck, --hide-backups, --type, cell, --exact-id, 'Thirsk (-19, 23)']
     data_paths:
       - 00 Core
-      - 02 Wares to vanilla lists
       - 03 TD to Wares
       - 04 OAAB to Wares
       - 06 Wares to Traders
-      - 09 Wares to containers
     plugins:
       - Wares-base.esm
       - Wares_lists_OAAB.ESP
       - Wares_lists_TD.ESP
-      - Wares_vanilla_random_lists.ESP
       - Wares_traders.ESP
-      - Wares_containers.ESP
 
-  - name: OAAB Integrations
-    url: https://www.nexusmods.com/morrowind/mods/49045
+  - name: Tamrielic Integrations
+    url: https://www.nexusmods.com/morrowind/mods/57488
     download_info:
-      - file_name: OAAB Creature Loot
-      - file_name: OAAB Leveled Creatures
-      - file_name: OAAB Leveled Lists
+      - file_name: Tamrielic Integrations - Levelled Lists
+      - file_name: Tamrielic Integrations - OAAB Levelled Tweaks
+      - file_name: Tamrielic Integrations - Creature Loot and Tweaks
     plugins:
-      - OAAB Leveled Lists.ESP
-      - OAAB Creature Loot.ESP
-      - OAAB Leveled Creatures.ESP
+      - Tamrielic Integrations - Levelled Items.ESP
+      - Tamrielic Integrations - OAAB Levelled Tweaks.ESP
+      - Tamrielic Integrations - Creature Loot + Tweaks.ESP
 
   - name: Adventurer's Backpacks
     url: https://www.nexusmods.com/morrowind/mods/43213

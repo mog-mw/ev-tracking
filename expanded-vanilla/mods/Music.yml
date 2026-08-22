@@ -4,7 +4,7 @@ mods:
   - name: S3maphore - OpenMW Music Management from the Future
     url: https://www.nexusmods.com/morrowind/mods/56836
     download_info:
-      - file_name: S3maphore Core
+      - file_name: S3maphore
     data_paths:
       - 00 Core
       - 01 Tamriel Rebuilt Playlists
@@ -14,6 +14,7 @@ mods:
       - 05 Secrets of the Crystal City
       - 06 Songbook of the North
     plugins:
+      - H3lp Yours3lf.esp
       - S3maphore.esp
 
   - name: MUSE Music Expansion - Hlaalu

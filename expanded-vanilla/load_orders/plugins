@@ -2,6 +2,7 @@ Morrowind.esm
 Tribunal.esm
 distant_seafloor_2.00.esm
 Bloodmoon.esm
+H3lp Yours3lf.esp
 Patch for Purists.esm
 Rise of House Telvanni.esm
 Ownership Overhaul.esm
@@ -16,6 +17,9 @@ Cyr_Main.esm
 Solstheim Tomb of The Snow Prince.esm
 AFFresh.esm
 OAAB - Tombs and Towers.esm
+FollowerDetectionUtil.omwscripts
+FriendlierFire.omwscripts
+BestFriendsForever.omwscripts
 StatsWindow.ESP
 StatsWindow.omwscripts
 ncg.omwaddon
@@ -26,9 +30,7 @@ OAAB_Saplings OpenMW Patch.ESP
 DistantEbonTower.ESP
 Wares_lists_OAAB.ESP
 Wares_lists_TD.ESP
-Wares_vanilla_random_lists.ESP
 Wares_traders.ESP
-Wares_containers.ESP
 distant seafloor TOTSP 2.3.0 edges fix.esp
 Greetings for No Lore.esp
 Expansions Integrated - Fewer BM Creatures.esp
@@ -229,6 +231,7 @@ TR_Factions.esp
 quarraclan_refreshed.esp
 quarraclan_refreshed - Morrowind Anti-Cheese.esp
 quarraclan_refreshed - Tamriel_Data.esp
+Cutting Room Floor - Items TR.esp
 Quests for Clans and Vampire Legends.ESP
 QCVL_BCoM_fix.esp
 Quill of Feyfolken 2.0.esp
@@ -244,7 +247,9 @@ Ancient Foes.esp
 Caldera Priory.ESP
 The Devil's Doorstep.ESP
 TabletopAlchemy.omwscripts
-OAAB Leveled Lists.ESP
+Tamrielic Integrations - Levelled Items.ESP
+Tamrielic Integrations - OAAB Levelled Tweaks.ESP
+Tamrielic Integrations - Creature Loot + Tweaks.ESP
 ST_Books_Wares_OAAB.ESP
 Store Entrance Chimes - Alt Ver.ESP
 Store Entrance Chimes - Cyrodiil.ESP
@@ -297,8 +302,6 @@ Sixth House Rebalance.ESP
 Sunder and keening hurt on pickup.ESP
 Unused Dagoth Placement.ESP
 Riekling Fix & Expansion.ESP
-OAAB Creature Loot.ESP
-OAAB Leveled Creatures.ESP
 Unique_CaveRats.ESP
 PR Winged Twilight Rebalance.esp
 PR Atronach Rebalance.esp
@@ -392,13 +395,13 @@ RPNR_Hall_of_justice.ESP
 OAAB Market.ESP
 Hanging Gardens of Suran.esp
 Of_Murk_and_Mussels.esp
-Melodies and Moonlight.esp
 Of Musk and Mer A Sadrith Mora Tale.esp
 IGE.ESP
 BalmoraHighTownBellBCOM.ESP
 Raven Rock Enhanced for TOTSP.ESP
 Solstheim Interior Overhaul Project.ESP
 Cliff_racer_restored.ESP
+Stone Halls of Solstheim.ESP
 Drethos_Ancestral_Tomb.ESP
 The Wake of Hanin.ESP
 The Wake of Hanin - TR Goblet Fix.ESP
@@ -463,7 +466,6 @@ IO - TR Imperial Guards.ESP
 Cutting Room Floor - Herders.esp
 Cutting Room Floor - Ald Redaynia.esp
 Cutting Room Floor - Ald-ruhn Underground.esp
-Cutting Room Floor - Items TR.esp
 Cutting Room Floor - Snow Prince.esp
 Of Eggs and Dwarves.ESP
 Of Eggs and Dwarves.omwscripts
@@ -523,9 +525,9 @@ Strider Burial.esp
 RepopulatedMorrowind_CRF_AldRedaynia.ESP
 RepopulatedMorrowind_6thHouseObsidWeps.ESP
 New Ilunibi.ESP
-Devilish_Vampire_Overhaul.esp
-Devilish_Vampire_Overhaul.omwscripts
-Devilish_Vampire_Overhaul_TR_Dialogue_Patch.ESP
+Better Vampires.ESP
+Better Vampires TD.ESP
+Better_Vampires.omwscripts
 MC_MOMW_Patch.esp
 DSO Ashalmimilkala Water Height Fix.esp
 ReAnimation_API.omwscripts
@@ -560,7 +562,6 @@ Nine-holes - Vivec, Elven Nations Cornerclub.esp
 MOMW Sadrith Mora Pathgrid Reset.esp
 Unofficial TR Spells.omwscripts
 bcomxpfp.omwaddon
-PFP x Cutting Room Floor.omwaddon
 Tamriel_Data.omwscripts
 SSQN.omwscripts
 dayspassedfix.omwaddon
@@ -568,9 +569,6 @@ SolCombatPack.omwscripts
 friendly-autosave.omwscripts
 LightHotkey.omwscripts
 convenient-thief-tools.omwscripts
-AttendMe.omwscripts
-FollowerDetectionUtil.omwscripts
-FriendlierFire.omwscripts
 S3maphore.esp
 # insert new entries above
 momw-gameplay.omwscripts
