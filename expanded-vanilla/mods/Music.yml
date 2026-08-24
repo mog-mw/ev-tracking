@@ -14,7 +14,6 @@ mods:
       - 05 Secrets of the Crystal City
       - 06 Songbook of the North
     plugins:
-      - H3lp Yours3lf.esp
       - S3maphore.esp
 
   - name: MUSE Music Expansion - Hlaalu

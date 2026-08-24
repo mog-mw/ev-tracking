@@ -317,7 +317,6 @@ The_corprusarium_Exp.ESP
 Corprusarium_Doors_of_Oblivion_Patch.ESP
 AetherPiratesDiscoveryCorprusariumExperiencePatch.esp
 distant-fixes-lua-edition.omwscripts
-tamrielrebuilt.omwscripts
 ScalableDwemerPuzzleBoxRandomizer.omwscripts
 mtrPQCR_ShipsOfVvardenfell_Compat.esp
 RepopulatedMorrowind.esp
@@ -391,7 +390,6 @@ Memento Mori - OpenMW Patch.ESP
 MementoMori_VanillaStatues_patch.esp
 Planters for Ajira.ESP
 Under-Skar.ESP
-RPNR_Hall_of_justice.ESP
 OAAB Market.ESP
 Hanging Gardens of Suran.esp
 Of_Murk_and_Mussels.esp
@@ -413,7 +411,6 @@ Djangos Dialogue - Patch for Purists.esp
 Improved Inns Expanded.esp
 Improved Inns Expanded - PC Addon.esp
 Improved Inns Expanded - SHotN Addon.esp
-Improved Inns Expanded - TR Addon.esp
 Nordic Dagon Fel.ESP
 Dagon Fel Mill.ESP
 Dagon_Fel_Lighthouse.ESP
@@ -462,7 +459,6 @@ Hist Helms OpenMW Lua.omwaddon
 protected-beasts.omwscripts
 Yet Another Guard Diversity - Full Cephalopod.ESP
 IO - Solstheim.ESP
-IO - TR Imperial Guards.ESP
 Cutting Room Floor - Herders.esp
 Cutting Room Floor - Ald Redaynia.esp
 Cutting Room Floor - Ald-ruhn Underground.esp
@@ -560,9 +556,9 @@ Nine-holes - Seyda Neen, Arrille's Tradehouse.esp
 Nine-holes - Suran, Goldyn Belaram (BCOM).esp
 Nine-holes - Vivec, Elven Nations Cornerclub.esp
 MOMW Sadrith Mora Pathgrid Reset.esp
-Unofficial TR Spells.omwscripts
 bcomxpfp.omwaddon
 Tamriel_Data.omwscripts
+tamrielrebuilt.omwscripts
 SSQN.omwscripts
 dayspassedfix.omwaddon
 SolCombatPack.omwscripts

@@ -40,12 +40,11 @@ MOMWPatches/11 Mamaea Awakened OpenMW Patch
 BeautifulCitiesofMorrowind/Patches/80 Mamaea Awakened
 InterestingOutfitsSolstheim/1. Core
 InterestingOutfitsSolstheim/2. TOTSP Compatibility
-InterestingOutfitsTamrielRebuiltGuards
 FacesofVelAshMire/Data Files
 ConceptArtMolagAmurRegionTheGreatScathes/00 Core
 SouthernAshlandsOverhaul
 TalesfromtheAshlandsTheGreatHiveBaanBinif
-TamrielData/00 Data Files
+TamrielDataHD/00 Data Files
 SophiesSkoomaSweetshoppe/07 Telvanni Cephalopod Armor TD Cuirass Upscale and Color Match
 DistantEbonTowerforOpenMW
 SignpostFastTravel
@@ -72,8 +71,8 @@ ProjectAtlas/02 Urns - Smoothed
 ProjectAtlas/03 Redware - Smoothed
 ProjectAtlas/07 Graphic Herbalism Patch
 JammingsOff/Jammings off(v1.1)/ver1.0(only_Xnif_files)/Data Files
-TamrielRebuilt/00 Core
-TamrielRebuilt/01 Faction Integration
+TamrielRebuilt/00 Core/Data Files
+TamrielRebuilt/01 Faction Integration/Data Files
 OAABData/HD
 OpenMWMoreDynamicWaterMeshes
 ProjectCyrodiil/00 Core
@@ -350,7 +349,6 @@ MOMWPatches/09 Master Index Redux BCOM Fixed
 BeautifulCitiesofMorrowind/Patches/22 Tamriel Rebuilt patch
 BeautifulCitiesofMorrowind/Patches/25 Province Cyrodiil Patch
 AldruhnunderSkar/Data files
-TamrielRebuiltHallofJusticeOverhaul/00 Core
 SophiesSkoomaSweetshoppe/23 Telvanni Mushroomtop Housepod UV Fix
 NecromArkitektoraofMorrowind/HQ
 NecromArkitektoraofMorrowind/NecromMinorMeshesFixes
@@ -467,8 +465,6 @@ TimeScaleChangeOpenMW
 QuillofFeyfolkenScrollEnchanting
 AlvazirsVariousPatches
 DaisysLuaMultimark
-UnofficialTamrielRebuiltSpellsOpenMW051/Unofficial Tamriel Rebuilt Spells (OpenMW 0.51)
-ImprovedInnsExpanded/01 TR Addon
 ImprovedInnsExpanded/02 SHotN Addon
 ImprovedInnsExpanded/03 PC Addon
 ImprovedInnsExpanded/05 BCOM Version
@@ -673,7 +669,6 @@ DiverseBloodOpenMWLua
 SolthasBlightWeatherPack/Solthas Blight Weather Pack
 DistantFixesLuaEdition
 LushSynthesis
-LushSynthesis/LUSH_TR/MERGED
 LushSynthesis/LUSH_UNDERWATER
 RemirosGroundcover/00 Core OpenMW
 RemirosGroundcover/01b Thicker Grass OpenMW

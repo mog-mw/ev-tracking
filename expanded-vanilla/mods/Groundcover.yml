@@ -7,14 +7,12 @@ mods:
       - file_name: Lush Synthesis 3.0
     data_paths:
       - ''
-      - LUSH_TR/MERGED
       - LUSH_UNDERWATER
     groundcover:
-      - lush3_RI_TR_TOTSP.esp
+      - lush3_RI_TOTSP.esp
       - lush3_RI_CYR.esp
-      - lush3_SE_TR_TOTSP.esp
+      - lush3_SE_TOTSP.esp
       - lush3_SE_CYR.esp
-      - lush3_TR_merged.esp
     settings: |
       [Groundcover]
       enabled = true

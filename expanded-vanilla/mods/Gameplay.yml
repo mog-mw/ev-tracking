@@ -219,7 +219,6 @@ mods:
     download_info:
       - file_name: Improved Inns Expanded
     data_paths:
-      - 01 TR Addon
       - 02 SHotN Addon
       - 03 PC Addon
       - 05 BCOM Version
@@ -227,7 +226,6 @@ mods:
       - Improved Inns Expanded.esp
       - Improved Inns Expanded - PC Addon.esp
       - Improved Inns Expanded - SHotN Addon.esp
-      - Improved Inns Expanded - TR Addon.esp
 
   - name: Projectile Overhaul - Modular
     url: https://www.nexusmods.com/morrowind/mods/43195
