@@ -107,8 +107,6 @@ FMI_Nice_to_Meet_You.ESP
 FMI_CaiusBigPackage.ESP
 FMI_#NotAllDunmer.ESP
 FMI_ServiceRefusal_Contraband.ESP
-Indoril & Her Hand Armor Privileges.omwaddon
-Indoril & Her Hand Armor Privileges.omwscripts
 FMI_Legion_Dialogue.ESP
 Dubdilla Location Fix.ESP
 AFFresh+SamarysAncestralTombExpanded.esp
@@ -456,7 +454,6 @@ Argonian Full Helms OpenMW-Lua.omwaddon
 Boots for Beasts OpenMW Lua.omwaddon
 Boots for Beasts OpenMW Lua TD.omwaddon
 Hist Helms OpenMW Lua.omwaddon
-protected-beasts.omwscripts
 Yet Another Guard Diversity - Full Cephalopod.ESP
 IO - Solstheim.ESP
 Cutting Room Floor - Herders.esp
@@ -538,7 +535,6 @@ TimescaleChange.omwaddon
 signpost-fast-travel.omwscripts
 signpost-fast-travel.omwaddon
 harvest-lights.omwscripts
-protective_guards_for_omw.omwscripts
 action-camera-swap.omwscripts
 an-nwahs-guide-to-modern-culture-and-mythology.omwaddon
 Perfect Placement.omwscripts
@@ -559,6 +555,7 @@ MOMW Sadrith Mora Pathgrid Reset.esp
 bcomxpfp.omwaddon
 Tamriel_Data.omwscripts
 tamrielrebuilt.omwscripts
+protected-beasts.omwscripts
 SSQN.omwscripts
 dayspassedfix.omwaddon
 SolCombatPack.omwscripts

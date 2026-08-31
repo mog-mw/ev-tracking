@@ -205,7 +205,7 @@ mods:
   - name: OAAB Shipwrecks
     url: https://www.nexusmods.com/morrowind/mods/51364
     download_info:
-      - file_name: OAAB   Shipwrecks
+      - file_name: OAAB Shipwrecks
     data_paths:
       - 00 Core
       - 02 Patch - TR Patch

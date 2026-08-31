@@ -362,8 +362,23 @@ mods:
       [Sound]
       camera listener = true
 
+  - name: Antialias Alpha Test
+    settings: |
+      [Shaders]
+      antialias alpha test = false
+
   - name: Trilinear Filtering
     settings: |
       [General]
       anisotropy = 16
       texture mipmap = linear
+
+  - name: Lua Profiler
+    settings: |
+      [Lua]
+      lua profiler = false
+
+  - name: Preload Doors
+    settings: |
+      [Cells]
+      preload doors = false

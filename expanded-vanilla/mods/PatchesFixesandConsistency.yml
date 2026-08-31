@@ -77,19 +77,6 @@ mods:
     plugins:
       - FMI_Legion_Dialogue.ESP
 
-  - name: Indoril and Her Hand Armor Privileges - OpenMW
-    url: https://www.nexusmods.com/morrowind/mods/57666
-    download_info:
-      - file_name: Indoril and Her Hand Armor Privileges - OpenMW
-      - file_name: Indoril and Her Hand Armor Privileges - TR
-        extract_to: TR
-    data_paths:
-      - ''
-      - TR
-    plugins:
-      - Indoril & Her Hand Armor Privileges.omwaddon
-      - Indoril & Her Hand Armor Privileges.omwscripts
-
   - name: Mesh Fix v1.2
     url: https://web.archive.org/web/20150619182034/http://mw.modhistory.com/download-15-6088
     dl_url: https://modding-openmw.com/files/Mesh Fix v1.2.7z
@@ -102,7 +89,7 @@ mods:
   - name: Correct Meshes
     url: https://www.nexusmods.com/morrowind/mods/39348
     download_info:
-      - file_name: Correct_Meshes_4.7
+      - file_name: Correct_Meshes_4.8
         actions:
           - action: remove
             path: Data Files/BookArt
@@ -216,7 +203,6 @@ mods:
       - 12 Practical Necromancy Vendor Patch
       - 86 Practical Necromancy+OAAB Fix
       - 48 Races RESPECted OpenMW Lua Addon
-      - 59 Protective Guards Blacklist Patch
       - 71 Molomo SM Ceremonial Robe Patch
       - 52 Telvanni Magister Robes Anticheese
       - 63 Adventurer's Backpack No Choice Patch
