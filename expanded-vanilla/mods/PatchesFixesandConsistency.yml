@@ -396,9 +396,9 @@ mods:
   - name: Null's Minor Patches
     url: https://www.nexusmods.com/morrowind/mods/55897
     download_info:
-      - file_name: Uvirith's Legacy - Tamriel Rebuilt 24.12 Add-on
+      - file_name: Uvirith's Legacy - Tamriel Rebuilt 26.08 Add-on
     plugins:
-      - UL_3.5_TR_24.12_Add-on.esp
+      - UL_3.5_TR_26.08_Add-on.esp
 
   - name: OAAB to RR Telvanni Consistency
     url: https://www.nexusmods.com/morrowind/mods/56187
