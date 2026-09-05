@@ -444,10 +444,18 @@ mods:
     download_info:
       - file_name: Soulless Summons Dialogue Fix
         extract_to: SoullessSummonsDialogueFix
+      - file_name: Better Bloodmoon Directions
+        extract_to: BetterBloodmoonDirections
+      - file_name: Soulless Summons for Tamriel Data
+        extract_to: SoullessSummonsforTamrielData
     data_paths:
+      - BetterBloodmoonDirections
       - SoullessSummonsDialogueFix
+      - SoullessSummonsforTamrielData
     plugins:
+      - BetterBloodmoonDirections.omwaddon
       - cybnosoulssummondialoguefix.omwaddon
+      - CybSoullessSummonsTD.omwaddon
 
   - name: Wilhelm of the Aedra Topic Fix (ESP)
     url: https://www.nexusmods.com/morrowind/mods/59593

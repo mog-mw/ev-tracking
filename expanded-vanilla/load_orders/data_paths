@@ -83,6 +83,7 @@ SolstheimTomboftheSnowPrince/010 Optional - Tamriel Data Integration
 SolstheimTomboftheSnowPrince/199 Patch - Forceful Travel NPC Override
 SolstheimTomboftheSnowPrince/200 Addon - Missing Snow Armor Pieces
 SolstheimTomboftheSnowPrince/201 Addon - Fierce Wolf Helms
+CybvepsJesterStashofTweaksandPatches/BetterBloodmoonDirections
 MorrowindEnhancedTextures/MET 6-1 main
 MorrowindEnhancedTextures/Interface
 MorrowindEnhancedTextures/atlas
@@ -258,6 +259,7 @@ AtronachRebalance
 Vanillafriendlycreaturesandundeadsexpansion/00 Core
 Vanillafriendlycreaturesandundeadsexpansion/03 Summons have 0 soul
 CybvepsJesterStashofTweaksandPatches/SoullessSummonsDialogueFix
+CybvepsJesterStashofTweaksandPatches/SoullessSummonsforTamrielData
 DaedraUseBoundEquipmentforOpenMW
 FixedBonelordArms
 RotatsCorprusNativesReplacer
@@ -469,7 +471,7 @@ ImprovedInnsExpanded/05 BCOM Version
 NomoreDrNerevarine
 WanderingCreatureMerchantsLuaEdition/00 Core
 WanderingCreatureMerchantsLuaEdition/01 Extra
-PickpocketRebalanceOpenMW/Pickpocket Rebalance
+PickpocketRebalanceOpenMW
 VariousModsandPatches/AlchemicalHustleIngredientsPatch
 MageRobes/00 Core
 MageRobes/04 HD Textures
@@ -665,6 +667,7 @@ SolthasBlightWeatherPack/Solthas Blight Weather Pack
 DistantFixesLuaEdition
 LushSynthesis
 LushSynthesis/LUSH_UNDERWATER
+FantasiaGrassModLushSynthesisTRUpdate/Lush Synthesis - TR/Data files
 RemirosGroundcover/00 Core OpenMW
 RemirosGroundcover/01b Thicker Grass OpenMW
 RemirosGroundcoverTexturesImprovement

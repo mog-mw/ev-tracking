@@ -245,7 +245,7 @@ mods:
     download_info:
       - file_name: TR Dra-Vashai418
     plugins:
-      - TR_Dra-VashaI-V2.esp
+      - TR_Dra-Vashai-V3.esp
 
   - name: Keelhouse - A quest and house mod for Tamriel Rebuilt
     url: https://www.nexusmods.com/morrowind/mods/53395

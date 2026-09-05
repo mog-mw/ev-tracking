@@ -1,0 +1,9 @@
+category: Dialogue
+
+mods:
+  - name: Voice Overhaul
+    url: https://www.nexusmods.com/morrowind/mods/51215
+    download_info:
+      - file_name: Voice Overhaul
+    plugins:
+      - PR Voice Overhaul.esp

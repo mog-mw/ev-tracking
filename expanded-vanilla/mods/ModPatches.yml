@@ -1,0 +1,10 @@
+category: ModPatches
+
+mods:
+  - name: Elodie's Mystic Minimods
+    url: https://www.nexusmods.com/morrowind/mods/47266
+    download_info:
+      - file_name: HD Unique Banners and Signs
+        extract_to: HDUniqueBannersandSigns
+    data_paths:
+      - HDUniqueBannersandSigns

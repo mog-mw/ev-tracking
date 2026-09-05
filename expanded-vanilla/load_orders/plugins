@@ -32,6 +32,7 @@ Wares_lists_OAAB.ESP
 Wares_lists_TD.ESP
 Wares_traders.ESP
 distant seafloor TOTSP 2.3.0 edges fix.esp
+BetterBloodmoonDirections.omwaddon
 Greetings for No Lore.esp
 Expansions Integrated - Fewer BM Creatures.esp
 Diverse Khajiit.ESP
@@ -332,6 +333,7 @@ RepopulatedMorrowind_OAAB_Data.ESP
 Creatures_RP_Purist.ESP
 Creatures_RP_Soulless summons.ESP
 cybnosoulssummondialoguefix.omwaddon
+CybSoullessSummonsTD.omwaddon
 Daedra Use Bound Equipment for OpenMW.omwscripts
 Clean_Vennin's Hlaalu Tomb.ESP
 Clean_Vennin's Shal Overhaul.ESP
@@ -469,7 +471,7 @@ Rather Nice Factor's Estate - GitD.esp
 RnFE - Patch for Purists.esp
 CanonicalGear.omwscripts
 Keelhouse.ESP
-TR_Dra-VashaI-V2.esp
+TR_Dra-Vashai-V3.esp
 VenninAddamasartus_DraVashai_patch.esp
 GreymarchDawn.esp
 GreymarchDawn_WhiteSuranPatch.ESP

@@ -64,6 +64,15 @@ mods:
       enabled = true
       stomp intensity = 2
 
+  - name: Fantasia Grass Mod - Lush Synthesis TR Update
+    url: https://www.nexusmods.com/morrowind/mods/60006
+    download_info:
+      - file_name: Lush Synthesis   TR
+    data_paths:
+      - Lush Synthesis - TR/Data files
+    groundcover:
+      - lush3_TR_merged.esp
+
   - name: Project Cyrodiil Grass
     url: https://www.nexusmods.com/morrowind/mods/55612
     download_info:
