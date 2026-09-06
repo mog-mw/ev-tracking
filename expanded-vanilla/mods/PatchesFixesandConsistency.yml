@@ -89,7 +89,7 @@ mods:
   - name: Correct Meshes
     url: https://www.nexusmods.com/morrowind/mods/39348
     download_info:
-      - file_name: Correct_Meshes_4.8
+      - file_name: Correct_Meshes_4.9
         actions:
           - action: remove
             path: Data Files/BookArt

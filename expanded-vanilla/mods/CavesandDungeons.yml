@@ -95,15 +95,6 @@ mods:
     plugins:
       - Unholy Trinity Complete.esp
 
-  - name: Dwemer Legacy Reforged - Arkngthunch-Sturdumz
-    url: https://www.nexusmods.com/morrowind/mods/54807
-    download_info:
-      - file_name: Dwemer Legacy Reforged - Arkngthunch-Sturdumz
-    data_paths:
-      - Data Files
-    plugins:
-      - Dwemer Legacy Reforged - Arkngthunch-Sturdumz.esp
-
   - name: Dwemer Legacy Reforged - Bthungthumz and Druscashti
     url: https://www.nexusmods.com/morrowind/mods/55073
     download_info:

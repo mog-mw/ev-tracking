@@ -5,6 +5,21 @@ mods:
     url: https://www.nexusmods.com/morrowind/mods/43076
     download_info:
       - file_name: Chocolate UI
+        actions:
+          - action: remove
+            path: textures/door_icon.dds
+
+  - name: Small Skyrim Crosshair (OpenMW compatible)
+    url: https://www.nexusmods.com/morrowind/mods/46351
+    download_info:
+      - file_name: Small Skyrim Crosshair (OpenMW compatible)
+
+  - name: Enchanting icons as you wish
+    url: https://www.nexusmods.com/morrowind/mods/50028
+    download_info:
+      - file_name: Enchant icons
+    data_paths:
+      - Ice/Data Files
 
   - name: Gonzo's Splash Screens
     url: https://www.nexusmods.com/morrowind/mods/51667

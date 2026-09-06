@@ -25,7 +25,6 @@ WaresUltimate/00 Core
 IndorilMansion
 RoyalBarenziah/00 Core
 RoyalBarenziah/01 Option 3
-DwemerLegacyReforgedArkngthunchSturdumz/Data Files
 DwemerLegacyReforgedBthungthumzandDruscashti/Data Files
 KogoruhnExtinctCityofAshandSulfur/Data Files
 MOMWPatches/80 RoHT+Kogoruhn Extinct City Patch
@@ -60,7 +59,6 @@ ProperlySmoothedMeshes/01 Optional Textures
 ProperlySmoothedMeshes/03 Higher Poly Glowing Candles
 ProperlySmoothedMeshes/04 Reflection Mapped
 ProperlySmoothedMeshes/05 Beaker, Flasks - clear glass
-ProperlySmoothedMeshes/06 Inkwell - cut glass
 ProperlySmoothedMeshes/07 Barrel - no rivets
 ProperlySmoothedMeshes/08 Potted Plant - redware
 ProjectAtlas/00 Core
@@ -551,6 +549,7 @@ RoaringArenaBettingandBloodletting/02 BCoM/01 Default BCoM
 RoaringArenaBettingandBloodletting/07 Optional Plugins
 RoaringArenaBettingandBloodletting/07 Optional Plugins/BloodmoonOptions/02 TombOfTheSnowPrince
 RoaringArenaBettingandBloodletting/Data Files
+RoaringArenaBettingandBloodletting/noVO/Data Files
 CalderaMineExpanded/Caldera Mine Expanded
 MOMWPatches/70 Caldera Mine Expanded OpenMW Fix
 UnchartedArtifacts
@@ -746,6 +745,8 @@ MOMWPostProcessingPack/02 OMWFX-Shaders
 MOMWPostProcessingPack/03 ZesterersVolumetricClouds
 MOMWPostProcessingPack/04 WareyaOpenMWShaders
 ChocolateUI
+Enchantingiconsasyouwish/Ice/Data Files
+SmallSkyrimCrosshairOpenMWcompatible
 TheSearchfortheWhiteWave/01 OpenMW Addons
 ProjectCyrodiilSSQNPatch/00 Core
 OpenMWSkyrimStyleQuestNotifications

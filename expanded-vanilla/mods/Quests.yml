@@ -218,12 +218,16 @@ mods:
     download_info:
       - file_name: Roaring Arena
       - file_name: Missing Assets Hotfix
+      - file_name: Empty Generated Voice Lines
+        extract_to: noVO
     data_paths:
       - 00 Core
       - 02 BCoM/01 Default BCoM
       - 07 Optional Plugins
       - 07 Optional Plugins/BloodmoonOptions/02 TombOfTheSnowPrince
       - Data Files
+      - noVO
+      - noVO/Data Files
     plugins:
       - RoaringArena.esm
       - RoaringArena.ESP
