@@ -222,7 +222,7 @@ mods:
         extract_to: noVO
     data_paths:
       - 00 Core
-      - 02 BCoM/01 Default BCoM
+      - 02 Vivec Options/01 BCoM/01 Default BCoM
       - 07 Optional Plugins
       - 07 Optional Plugins/BloodmoonOptions/02 TombOfTheSnowPrince
       - Data Files
@@ -233,8 +233,6 @@ mods:
       - RoaringArena.ESP
       - RoaringArena_MageRobes.ESP
       - RoaringArena_OAAB.ESP
-      - RoaringArena_SkyrimHomeOfTheNords.ESP
-      - RoaringArena_ProjectCyrodiil.ESP
       - RoaringArena_Solstheim.ESP
 
   - name: Early Transport to Mournhold
