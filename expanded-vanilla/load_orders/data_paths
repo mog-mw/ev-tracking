@@ -1,5 +1,5 @@
 Morrowind/Data Files
-StaticSwitchingSystem/static_switching_system
+StaticSwitchingSystem
 H3lpYours3lfOpenMWHelperInterfaces
 PatchforPurists
 BeautifulCitiesofMorrowind/Patches/54 Area of effect Arrows
@@ -548,7 +548,6 @@ RoaringArenaBettingandBloodletting/00 Core
 RoaringArenaBettingandBloodletting/02 Vivec Options/01 BCoM/01 Default BCoM
 RoaringArenaBettingandBloodletting/07 Optional Plugins
 RoaringArenaBettingandBloodletting/07 Optional Plugins/BloodmoonOptions/02 TombOfTheSnowPrince
-RoaringArenaBettingandBloodletting/Data Files
 RoaringArenaBettingandBloodletting/noVO/Data Files
 CalderaMineExpanded/Caldera Mine Expanded
 MOMWPatches/70 Caldera Mine Expanded OpenMW Fix

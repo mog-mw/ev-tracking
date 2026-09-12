@@ -39,9 +39,7 @@ mods:
   - name: Static Switching System
     url: https://www.nexusmods.com/morrowind/mods/57282
     download_info:
-      - file_name: SSSCore
-    data_paths:
-      - static_switching_system
+      - file_name: Static Switching System
     plugins:
       - Static Switching System.esp
 
