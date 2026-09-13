@@ -43,17 +43,18 @@ mods:
     plugins:
       - Static Switching System.esp
 
-  - name: Stats Window Extender (OpenMW)
-    url: https://www.nexusmods.com/morrowind/mods/57727
-    download_info:
-      - file_name: Stats Window Extender
-    plugins:
-      - StatsWindow.ESP
-      - StatsWindow.omwscripts
-
   - name: H3lp Yours3lf - OpenMW Helper Interfaces
     url: https://www.nexusmods.com/morrowind/mods/56417
     download_info:
       - file_name: H3lp Yours3lf
     plugins:
       - H3lp Yours3lf.esp
+
+  - name: (OpenMW) Shared Ray (Library)
+    url: https://www.nexusmods.com/morrowind/mods/59674
+    download_info:
+      - file_name: SharedRay
+    data_paths:
+      - SharedRay
+    plugins:
+      - SharedRay.omwscripts

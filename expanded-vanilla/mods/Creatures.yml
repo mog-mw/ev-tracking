@@ -1,33 +1,19 @@
 category: Creatures
 
 mods:
-  - name: Dagoth Ur's Divine Body
-    url: https://www.nexusmods.com/morrowind/mods/45039
-    download_info:
-      - file_name: Dagoth Ur&#39;s Divine Body
-
-  - name: Silt Strider Animation Restored
-    url: https://www.nexusmods.com/morrowind/mods/44150
-    download_info:
-      - file_name: Silt Strider Animation Restored
-    data_paths:
-      - Data Files
-    plugins:
-      - Silt Strider Animation Restored.ESP
-
-  - name: Blighted Animals Retextured
-    url: https://www.nexusmods.com/morrowind/mods/42245
-    download_info:
-      - file_name: Blighted Animals with Darknuts 1024 textures
-    plugins:
-      - BlightedAnimalsRetextured.esp
-
   - name: FMI - Unique Lore Friendly Cave Rats
     url: https://www.nexusmods.com/morrowind/mods/47193
     download_info:
       - file_name: Unique Cave Rats 2.0 HD
     plugins:
       - Unique_CaveRats.ESP
+
+  - name: Natural Wildlife
+    url: https://www.nexusmods.com/morrowind/mods/59552
+    download_info:
+      - file_name: Natural Wildlife 1.1.1
+    plugins:
+      - Natural Wildlife.omwscripts
 
   - name: Vanilla friendly creatures and undeads expansion
     url: https://www.nexusmods.com/morrowind/mods/48818

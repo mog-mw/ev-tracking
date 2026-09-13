@@ -8,13 +8,6 @@ mods:
     plugins:
       - Plague Doctor Sanctuary.ESP
 
-  - name: Stormkiss Reforged
-    url: https://www.nexusmods.com/morrowind/mods/44565
-    download_info:
-      - file_name: Stormkiss v1.1
-    data_paths:
-      - Stormkiss Reforged/Data Files
-
   - name: AFFresh
     url: https://www.nexusmods.com/morrowind/mods/53006
     download_info:
@@ -50,11 +43,6 @@ mods:
       - 02 OpenMW Add-Ons
     plugins:
       - Red Wisdom.esp
-
-  - name: Master Index Redux
-    url: https://www.nexusmods.com/morrowind/mods/48977
-    download_info:
-      - file_name: MasterIndexRedux
 
   - name: The Doors of Oblivion
     url: https://www.nexusmods.com/morrowind/mods/44398
@@ -222,6 +210,7 @@ mods:
     data_paths:
       - 00 Core
       - 02 Vivec Options/01 BCoM/01 Default BCoM
+      - 03 Dock Options/02 Witness Structure
       - 07 Optional Plugins
       - 07 Optional Plugins/BloodmoonOptions/02 TombOfTheSnowPrince
       - noVO
@@ -229,6 +218,7 @@ mods:
     plugins:
       - RoaringArena.esm
       - RoaringArena.ESP
+      - RoaringArena_ExteriorPorts.ESP
       - RoaringArena_MageRobes.ESP
       - RoaringArena_OAAB.ESP
       - RoaringArena_Solstheim.ESP
@@ -287,13 +277,6 @@ mods:
     url: https://www.nexusmods.com/morrowind/mods/49281
     download_info:
       - file_name: Uncharted Artifacts
-
-  - name: Sorcerer of Alteration
-    url: https://www.nexusmods.com/morrowind/mods/51224
-    download_info:
-      - file_name: Sorcerer of Alteration
-    plugins:
-      - Sorcerer of Alteration.ESP
 
   - name: Questline - Vivec Lighthouse Keeper
     url: https://www.nexusmods.com/morrowind/mods/52120

@@ -40,3 +40,12 @@ mods:
       - file_name: OpenMW Impact Effects
     plugins:
       - Impact Effects.omwscripts
+
+  - name: Mistify
+    url: https://www.nexusmods.com/morrowind/mods/48112
+    download_info:
+      - file_name: Mistify
+    data_paths:
+      - 00 Core
+    plugins:
+      - mistify.ESP

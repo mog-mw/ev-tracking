@@ -15,9 +15,29 @@ mods:
     download_info:
       - file_name: Subtle Smoke Main File
 
-  - name: Harvest Lights
-    url: https://modding-openmw.gitlab.io/harvest-lights/
+  - name: Correct UV Rocks
+    url: https://www.nexusmods.com/morrowind/mods/46104
     download_info:
-      - file_name: Harvest Lights
+      - file_name: Correct_UV_Rocks_1.8
+    data_paths:
+      - Data Files
+
+  - name: Perfect Scum
+    url: https://www.nexusmods.com/morrowind/mods/51355
+    download_info:
+      - file_name: PR Perfect Scum
     plugins:
-      - harvest-lights.omwscripts
+      - PR Perfect Scum.esp
+
+  - name: Better Waterfalls
+    url: https://www.nexusmods.com/morrowind/mods/45424
+    download_info:
+      - file_name: Better Waterfalls
+    data_paths:
+      - 00 Core
+      - 02 Tamriel Rebuilt Water
+
+  - name: OpenMW More Dynamic Water Meshes
+    url: https://www.nexusmods.com/morrowind/mods/55392
+    download_info:
+      - file_name: OpenMW Dynamic Water Meshes

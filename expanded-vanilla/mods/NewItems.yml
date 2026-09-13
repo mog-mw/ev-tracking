@@ -1,0 +1,138 @@
+category: NewItems
+
+mods:
+  - name: Stuporstar's Books for Wares
+    url: https://www.nexusmods.com/morrowind/mods/49808
+    download_info:
+      - file_name: Stuporstar's books for Wares
+    data_paths:
+      - 00 Core
+      - 01 OAAB
+    plugins:
+      - ST_Books_Wares_OAAB.ESP
+
+  - name: Daedric Maul
+    url: https://www.nexusmods.com/morrowind/mods/53218
+    download_info:
+      - file_name: Daedric Maul
+        actions:
+          - action: clean
+            path: Daedric Maul/Data Files/Daedric_Maul.ESP
+    data_paths:
+      - Daedric Maul/Data Files
+    plugins:
+      - Daedric_Maul.ESP
+
+  - name: Tamrielic Integrations
+    url: https://www.nexusmods.com/morrowind/mods/57488
+    download_info:
+      - file_name: Tamrielic Integrations - Levelled Lists
+      - file_name: Tamrielic Integrations - OAAB Levelled Tweaks
+      - file_name: Tamrielic Integrations - Creature Loot and Tweaks
+    plugins:
+      - Tamrielic Integrations - Levelled Items.ESP
+      - Tamrielic Integrations - OAAB Levelled Tweaks.ESP
+      - Tamrielic Integrations - Creature Loot + Tweaks.ESP
+
+  - name: Adventurer's Backpacks
+    url: https://www.nexusmods.com/morrowind/mods/43213
+    download_info:
+      - file_name: Backpack Wares
+    plugins:
+      - Adventurer's backback.ESP
+
+  - name: Dynamic Telvanni Armor Replacer
+    url: https://modding-openmw.gitlab.io/dynamic-telvanni-armor-replacer/
+    download_info:
+      - file_name: dynamic-telvanni-armor-replacer
+    plugins:
+      - dynamic-telvanni-armor-replacer.omwscripts
+
+  - name: Mage Robes
+    url: https://www.nexusmods.com/morrowind/mods/45739
+    download_info:
+      - file_name: Mage Robes
+    data_paths:
+      - 00 Core
+      - 04 HD Textures
+    plugins:
+      - Mage Robes.ESP
+
+  - name: Mage Robes for OpenMW-Lua
+    url: https://modding-openmw.gitlab.io/mage-robes-for-openmw-lua/
+    download_info:
+      - file_name: Mage Robes for OpenMW-Lua
+    plugins:
+      - mage-robes-for-openmw-lua.omwscripts
+
+  - name: SM Telvanni Ceremonial Robe
+    url: https://www.nexusmods.com/morrowind/mods/55346
+    download_info:
+      - file_name: SM Telvanni Ceremonial Robe
+    data_paths:
+      - Telvanni_Robe/Data files
+      - Telvanni_Robe/Icons HD 512 for OpenMW
+
+  - name: Telvanni Magister Robes
+    url: https://www.nexusmods.com/morrowind/mods/52278
+    download_info:
+      - file_name: Telvanni Magister Robes
+    data_paths:
+      - Telvanni Magister Robes-52278-1-25-1683240241/Telvanni Magister robes/Data Files
+    plugins:
+      - Telvanni Magister Robes.esp
+
+  - name: Hircine's Artifacts
+    url: https://www.nexusmods.com/morrowind/mods/47671
+    download_info:
+      - file_name: Hircine's Artifacts
+    data_paths:
+      - Hircine's Artifacts
+    plugins:
+      - Hircine's Artifacts.ESP
+
+  - name: SM Mask of Dagoth Ur
+    url: https://www.nexusmods.com/morrowind/mods/49976
+    download_info:
+      - file_name: SM_Dagoth_Mask
+        actions:
+          - action: clean
+            path: sm_mask_eng/sm_golden_mask.ESP
+      - file_name: SM_Dagoth_Mask Textures Update and Normal map
+        extract_to: update_and_normal_map
+    data_paths:
+      - sm_mask_eng
+      - update_and_normal_map
+    plugins:
+      - sm_golden_mask.ESP
+
+  - name: Argonian Full Helms Lore Integrated and Modders Resource v 1.1
+    url: https://www.nexusmods.com/morrowind/mods/53011
+    download_info:
+      - file_name: Argonian Full Helms Lore Integrated
+    data_paths:
+      - Argonian Full Helms Lore Integrated v1.1/Data Files
+
+  - name: Boots for Beasts - Amenophis Revision
+    url: https://www.nexusmods.com/morrowind/mods/48726
+    download_info:
+      - file_name: Boots for Beasts-Amenophis Revision
+      - file_name: Boots for Beast-Amenophis Revision-TR
+        extract_to: TR
+    data_paths:
+      - 0 Core
+      - TR
+
+  - name: Hist Helms - More Argonian Shaped Helms
+    url: https://www.nexusmods.com/morrowind/mods/56764
+    download_info:
+      - file_name: Hist Helms - Lefemm
+    data_paths:
+      - Hist Helms - Lefemm
+
+  - name: Stormkiss Reforged
+    url: https://www.nexusmods.com/morrowind/mods/44565
+    download_info:
+      - file_name: Stormkiss v1.1
+    data_paths:
+      - Stormkiss Reforged/Data Files

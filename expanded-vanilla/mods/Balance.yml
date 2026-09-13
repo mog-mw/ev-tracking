@@ -1,0 +1,182 @@
+category: Balance
+
+mods:
+  - name: Better Armor Training (OpenMW)
+    url: https://www.nexusmods.com/morrowind/mods/59863
+    download_info:
+      - file_name: BetterArmorTraining
+    plugins:
+      - BetterArmorTraining.omwscripts
+
+  - name: Immersive Telvanni Bug Musk
+    url: https://www.nexusmods.com/morrowind/mods/48327
+    download_info:
+      - file_name: Immersive Telvanni Bug Musk
+    plugins:
+      - BugMuskPerfume.esp
+
+  - name: MDMD - More Deadly Morrowind Denizens
+    url: https://www.nexusmods.com/morrowind/mods/48745
+    download_info:
+      - file_name: MDMD - More Deadly Morrowind Denizens
+    plugins:
+      - MDMD - More Deadly Morrowind Denizens.ESP
+      - mdmd - uvirith legacy cooperation.ESP
+      - MDMD - Creatures Add-On.ESP
+
+  - name: Beware the Sixth House (Sixth House Overhaul)
+    url: https://www.nexusmods.com/morrowind/mods/46036
+    download_info:
+      - file_name: Beware the Sixth House
+    data_paths:
+      - Modular
+    plugins:
+      - Ash Vampire Script Fix.esp
+      - Sixth House Rebalance.ESP
+      - Sunder and keening hurt on pickup.ESP
+      - Unused Dagoth Placement.ESP
+
+  - name: Tribunal Rebalance
+    url: https://www.nexusmods.com/morrowind/mods/45713
+    download_info:
+      - file_name: Tribunal Rebalance
+    plugins:
+      - Tribunal Rebalance.ESP
+
+  - name: Bloodmoon Rebalance
+    url: https://www.nexusmods.com/morrowind/mods/45714
+    download_info:
+      - file_name: Bloodmoon Rebalance
+    data_paths:
+      - Bloodmoon Rebalance
+    plugins:
+      - Bloodmoon Rebalance.ESP
+
+  - name: For the Right Price
+    url: https://www.nexusmods.com/morrowind/mods/52668
+    download_info:
+      - file_name: For the Right Price
+    data_paths:
+      - For the Right Price/Modular
+    plugins:
+      - FtRP_Services.ESP
+
+  - name: Better Merchants Skills (OpenMW)
+    url: https://www.nexusmods.com/morrowind/mods/54337
+    download_info:
+      - file_name: BetterMerchantsSkills
+    data_paths:
+      - 00 Core
+    plugins:
+      - bms.omwscripts
+    settings: |
+      [Game]
+      trainers training skills based on base skill = true
+
+  - name: Ownership Overhaul
+    url: https://www.nexusmods.com/morrowind/mods/48051
+    download_info:
+      - file_name: Ownership Overhaul
+    plugins:
+      - Ownership Overhaul.esm
+
+  - name: Real Disposition
+    url: https://www.nexusmods.com/morrowind/mods/51427
+    download_info:
+      - file_name: PR Real Disposition
+    plugins:
+      - PR Real Disposition Base.esp
+
+  - name: Fatigue and Speed and Carryweight Rebalance (OpenMW)
+    url: https://www.nexusmods.com/morrowind/mods/52981
+    download_info:
+      - file_name: FatigueSpeedAndCarryWeightRebalance
+    plugins:
+      - FatigueSpeedAndCarryWeightRebalance.omwaddon
+
+  - name: Pickpocket Rebalance (OpenMW)
+    url: https://www.nexusmods.com/morrowind/mods/53174
+    download_info:
+      - file_name: Pickpocket Rebalance (OpenMW) 1.2
+    plugins:
+      - Pickpocket Rebalance.omwaddon
+
+  - name: Better Blight
+    url: https://www.nexusmods.com/morrowind/mods/48395
+    download_info:
+      - file_name: Better Blight
+    plugins:
+      - Better Blight.ESP
+
+  - name: Daedra Use Bound Equipment for OpenMW
+    url: https://www.nexusmods.com/morrowind/mods/57698
+    download_info:
+      - file_name: Daedra Use Bound Equipment for OpenMW
+    plugins:
+      - Daedra Use Bound Equipment for OpenMW.omwscripts
+
+  - name: Bound Balance
+    url: https://modding-openmw.gitlab.io/bound-balance/
+    download_info:
+      - file_name: Bound Balance
+    plugins:
+      - bound-balance.omwaddon
+      - bound-balance.omwscripts
+
+  - name: Better Vampires - Vampire Overhaul for OpenMW
+    url: https://www.nexusmods.com/morrowind/mods/55912
+    download_info:
+      - file_name: Better Vampires - Vampire Overhaul for OpenMW
+      - file_name: Optimized Feeding Script
+        extract_to: optimized
+    data_paths:
+      - ''
+      - optimized
+    plugins:
+      - Better Vampires.ESP
+      - Better Vampires TD.ESP
+      - Better_Vampires.omwscripts
+
+  - name: Magic Rebalance and Fixes (MRF)
+    url: https://www.nexusmods.com/morrowind/mods/58560
+    download_info:
+      - file_name: Magic Rebalance And Fixes
+    data_paths:
+      - 00 Core
+      - 01 Patches
+      - 02 OpenMW Lua
+      - 03 No more Dr Nerevarine
+    plugins:
+      - No more Dr Nerevarine.ESP
+      - MRF-AreaEffectArrows-MOMW-patch.omwaddon
+      - MRF-spells.omwaddon
+      - MRF.omwscripts
+
+  - name: Better Balanced Taunt and Persuasion (BBTaP)
+    url: https://www.nexusmods.com/morrowind/mods/58903
+    download_info:
+      - file_name: BBTaP (TR PT version)
+    data_paths:
+      - 00 Core
+      - 01 Patches
+      - 02 Addons
+    plugins:
+      - betterpersuasionTRPT.esp
+      - AFFresh_BBTaP_Patch.omwaddon
+      - BBTaP GMST Addon.omwaddon
+
+  - name: Sane Custom Potions (OpenMW)
+    url: https://www.nexusmods.com/morrowind/mods/59640
+    download_info:
+      - file_name: Sane Custom Potions
+    plugins:
+      - sanecustompotions.omwscripts
+
+  - name: Solthas Sixth House Amulet
+    url: https://www.nexusmods.com/morrowind/mods/52401
+    download_info:
+      - file_name: Sixth House Amulet
+    data_paths:
+      - Solthas Sixth House Amulet
+    plugins:
+      - solSixthHouseAmulet.esp

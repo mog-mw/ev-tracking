@@ -440,3 +440,15 @@ mods:
       - file_name: BalmoraGravemarketBCOMWaterworks
     plugins:
       - BalmoraGravemarketBCOM.ESP
+
+  - name: Magical lights for Telvanni
+    url: https://www.nexusmods.com/morrowind/mods/49453
+    download_info:
+      - file_name: OAAB - Magical Lights
+    data_paths:
+      - OAAB - Magical Lights/00 Core
+      - OAAB - Magical Lights/01 BCoM Version
+      - OAAB - Magical Lights/02 Telvanni Council House Pathway
+    plugins:
+      - Magical Lights.ESP
+      - Magical Lights_Council Pathway.ESP

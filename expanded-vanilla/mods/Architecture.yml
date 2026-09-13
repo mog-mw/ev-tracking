@@ -20,17 +20,6 @@ mods:
     download_info:
       - file_name: Dwemer Mesh Improvement - Revamped
 
-  - name: OAAB Dwemer Pavements
-    url: https://www.nexusmods.com/morrowind/mods/50237
-    download_info:
-      - file_name: OAAB Dwemer Pavements
-    data_paths:
-      - 00 Core
-      - 01 Trackless Grazelands Patch
-    plugins:
-      - OAAB Dwemer Pavements.esm
-      - Trackless Grazeland OAAB Dwemer Pavements Patch.ESP
-
   - name: Ghastly Glowyfence
     url: https://www.nexusmods.com/morrowind/mods/47982
     download_info:
@@ -72,16 +61,6 @@ mods:
     download_info:
       - file_name: Swayland - Main Download
 
-  - name: Glow in the Dahrk
-    url: https://www.nexusmods.com/morrowind/mods/45886
-    download_info:
-      - file_name: Glow in the Dahrk
-    data_paths:
-      - 00 Core
-      - 01 Hi Res Window Texture Replacer
-      - 04 Raven Rock Glass Windows
-      - 07 Telvanni Tower Interior Glow OpenMW
-
   - name: Nords shut your windows
     url: https://www.nexusmods.com/morrowind/mods/50087
     download_info:
@@ -90,14 +69,12 @@ mods:
       - 00 Core
       - 03 Vanilla style sunrays
 
-  - name: Magical lights for Telvanni
-    url: https://www.nexusmods.com/morrowind/mods/49453
+  - name: Necrom - Arkitektora of Morrowind
+    url: https://www.nexusmods.com/morrowind/mods/46289
     download_info:
-      - file_name: OAAB - Magical Lights
+      - file_name: Necrom Arkitektora - HQ
+      - file_name: Necrom Minor Meshes Fixes
+        extract_to: NecromMinorMeshesFixes
     data_paths:
-      - OAAB - Magical Lights/00 Core
-      - OAAB - Magical Lights/01 BCoM Version
-      - OAAB - Magical Lights/02 Telvanni Council House Pathway
-    plugins:
-      - Magical Lights.ESP
-      - Magical Lights_Council Pathway.ESP
+      - HQ
+      - NecromMinorMeshesFixes

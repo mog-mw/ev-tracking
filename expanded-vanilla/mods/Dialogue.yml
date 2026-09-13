@@ -7,3 +7,33 @@ mods:
       - file_name: Voice Overhaul
     plugins:
       - PR Voice Overhaul.esp
+
+  - name: FMBP - Greet Service
+    url: https://www.nexusmods.com/morrowind/mods/50937
+    download_info:
+      - file_name: Finished Morrowind - CORE PATCH - Part 4 - More Audio Dialogue for Service NPCs
+    plugins:
+      - Finished Morrowind - CORE PATCH - Part 4 - More Audio Dialogue for Service NPCs.ESP
+
+  - name: LDM - Context Matters
+    url: https://www.nexusmods.com/morrowind/mods/48273
+    download_info:
+      - file_name: LDM - Context Matters
+    plugins:
+      - LDM - Context Matters 1.7.ESP
+
+  - name: Djangos Dialogue 1.4
+    url: https://www.nexusmods.com/morrowind/mods/47253
+    download_info:
+      - file_name: Djangos Dialogue
+    data_paths:
+      - Djangos Dialogue 1.44
+    plugins:
+      - Djangos Dialogue.ESP
+
+  - name: Greetings for No Lore
+    url: https://www.nexusmods.com/morrowind/mods/46063
+    download_info:
+      - file_name: Greetings for No Lore
+    plugins:
+      - Greetings for No Lore.esp

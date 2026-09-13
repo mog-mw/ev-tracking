@@ -1,0 +1,11 @@
+category: Movies
+
+mods:
+  - name: HD Intro Cinematic - English
+    url: https://www.nexusmods.com/morrowind/mods/39329
+    download_info:
+      - file_name: 16x9 Version
+        actions:
+          - action: rename
+            src: Video/mw_intro_16x9_en.bik
+            dst: Video/mw_intro.bik

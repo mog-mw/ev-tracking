@@ -44,7 +44,6 @@ TalesfromtheAshlandsTheGreatHiveBaanBinif
 TamrielDataHD/00 Data Files
 SophiesSkoomaSweetshoppe/07 Telvanni Cephalopod Armor TD Cuirass Upscale and Color Match
 DistantEbonTowerforOpenMW
-SignpostFastTravel
 OAABData/00 Core
 MeshFixv12
 CorrectMeshes/Data Files
@@ -73,8 +72,8 @@ OAABData/HD
 OpenMWMoreDynamicWaterMeshes
 ProjectCyrodiil/00 Core
 ProjectCyrodiilGrass
-SkyrimHomeOfTheNords/00 Core
-SkyrimHomeOfTheNords/01 Grass for MGEXE and OpenMW
+SkyrimHomeOfTheNords/00 Data Files
+SkyrimHomeOfTheNordsGrass
 SolstheimTomboftheSnowPrince
 SolstheimTomboftheSnowPrince/000 Core
 SolstheimTomboftheSnowPrince/010 Optional - Tamriel Data Integration
@@ -104,6 +103,7 @@ SimplyWalkingRemastered/Simply Walking (WS Edition)
 Justalittlebitbetteranimationsforthemagebuildfirstperson
 ReAnimationv2Roguefirstpersonanimationpack
 3rdPersonaltAttacks
+OpenMWDynamicAnimations/3rdPersonPatch
 CalderaPrioryandtheDepthsofBloodandBone/00 Core
 CalderaPrioryandtheDepthsofBloodandBone/HD
 ILavaGoodMeshReplacer/00 Lava
@@ -208,7 +208,6 @@ VenninsSinsibadonOverhaul
 VenninsAddamasartusOverhaul
 VenninsPunabiOverhaul
 VenninsShalOverhaul
-MOMWPatches/72 Practical Necromancy X Venin's Shal Overhaul
 MOMWPatches/77 Shal Overhaul Skeleton Fix
 SuperiorShulkEggmineOAAB
 DungeonDetails/10 AP Egg Mine
@@ -227,9 +226,9 @@ OAABHawiaEggMine/OAAB - Hawia Egg Mine
 WhatKwamasForageAnEggmineMod/What Kwamas Forage
 AzurasShrineOverhaul/00 - Core files
 AzurasShrineOverhaul/03 - Aspect of Azura Patch
-SpeechcraftRebalanceOpenMW/Speechcraft Rebalance
-MOMWPatches/02 Speechcraft Rebalance Rebalanced
-TalkingTrainsSpeechcraftopenmwlua/Talking Trains Speechcraft openmw lua
+BetterBalancedTauntandPersuasionBBTaP/00 Core
+BetterBalancedTauntandPersuasionBBTaP/01 Patches
+BetterBalancedTauntandPersuasionBBTaP/02 Addons
 OfEggsandDwarvesGnisisEggmineandBethamezOverhaul/00 Core
 OfEggsandDwarvesGnisisEggmineandBethamezOverhaul/01 BCOM Patch
 BallakuTheLonelyTowers
@@ -262,6 +261,7 @@ DaedraUseBoundEquipmentforOpenMW
 FixedBonelordArms
 RotatsCorprusNativesReplacer
 RotatsCorprusNativesReplacer/512px
+NaturalWildlife
 AlmalexiaRedone
 AlmalexiaRedone/HD
 YetAnotherGuardDiversity
@@ -422,27 +422,23 @@ FortheRightPrice/For the Right Price/Modular
 OwnershipOverhaul
 RealDisposition
 MDMDMoreDeadlyMorrowindDenizens
-AlchemicalHustle/Alchemical Hustle/Fatigue Toxicity/Data Files
 StatsPotionsTrainingLimitsOpenMWOblivionStyleIncluded
 LightHotkey
 ConvenientThiefTools
 BetterBlight
-PracticalNecromancyOpenMW/Practical Necromancy
-MOMWPatches/12 Practical Necromancy Vendor Patch
-MOMWPatches/86 Practical Necromancy+OAAB Fix
-PharisMagickaRegeneration
-SpellEffectsRebalance
+LoafysNecromancyReanimateDeadOpenMW51
+StateBasedMagickaRegenSBMR/00 Core
+MagicRebalanceandFixesMRF/00 Core
+MagicRebalanceandFixesMRF/01 Patches
+MagicRebalanceandFixesMRF/02 OpenMW Lua
 HiddenSeaLoot
 BetterVampiresVampireOverhaulforOpenMW
 BetterVampiresVampireOverhaulforOpenMW/optimized
 NoWitnessNoBounty
 ShieldUnequipper
-CorporealCarryableContainers/Corporeal-Carryable-Containers-master
 ExpansionsIntegrated
 SigournsMiscModsandPatches/00 Expansions Integrated Patch
-TabletopAlchemy
 NoPopUpChargen
-ZEFFocusMagicka
 RacesRESPECtedARaceSkillandAttributeRebalanceMod
 MOMWPatches/48 Races RESPECted OpenMW Lua Addon
 BirthsignsRESPECtedABirthsignRebalanceMod
@@ -450,27 +446,41 @@ BewaretheSixthHouseSixthHouseOverhaul/Modular
 TribunalRebalance
 BloodmoonRebalance/Bloodmoon Rebalance
 StatsWindowExtenderOpenMW
+MagicWindowExtenderOpenMW
+SpellTraderOpenMW
+InventoryExtenderOpenMW
+InventoryExtenderTweaks/inventoryextender-public-tweaks
 NaturalCharacterGrowth/00 Core
 NaturalCharacterGrowth/01 NCG - Normal
 SkillEvolution/00 Core
+BetterArmorTrainingOpenMW
 DayspassedBugFixOpenMW
-SolthasCombatPackOpenMWLua/Solthas Combat Pack
+BullseyeMarksmanOverhaulOpenMW
+IronFistforOpenMW/Iron Fist for OpenMW
+MoveLikeThisDirectionalAttacksOpenMW
+NGardeActiveBlockandParryOpenMW/NGarde
+ArrowStickOpenMW
+SneakisGoodNowOpenMW
+SneakFatigueDrainOpenMW
+ReadingOverhaulOpenMW
+SetBonus/OpenMW_SetBonus
+SetBonus/OpenMW_SetBonusRebalance
 FatigueandSpeedandCarryweightRebalanceOpenMW
 ClearYourName
-ProjectileOverhaulModular
 SmartAmmoforOpenMWLua
-TimeScaleChangeOpenMW
-QuillofFeyfolkenScrollEnchanting
+DynamicTimescaleforOpenMW/DynamicTimescale
 AlvazirsVariousPatches
 DaisysLuaMultimark
 ImprovedInnsExpanded/02 SHotN Addon
 ImprovedInnsExpanded/03 PC Addon
 ImprovedInnsExpanded/05 BCOM Version
-NomoreDrNerevarine
+MagicRebalanceandFixesMRF/03 No more Dr Nerevarine
 WanderingCreatureMerchantsLuaEdition/00 Core
 WanderingCreatureMerchantsLuaEdition/01 Extra
 PickpocketRebalanceOpenMW
-VariousModsandPatches/AlchemicalHustleIngredientsPatch
+FairCareOpenMW/00 Core
+FreshLootOpenMW/00 Core
+TakeCoverOpenMW/00 Core
 MageRobes/00 Core
 MageRobes/04 HD Textures
 MageRobesforOpenMWLua
@@ -542,10 +552,10 @@ WanderingUmbra/wandering_umbra
 ImmersiveImperialSkirt/imperial_skirt
 MOMWPatches/89 BCOM x Immersive Imperial Skirt
 GondoliersLicense/gondoliers_license
-ComfyPillowforarestfulsleep/00 Base version
 FaceoftheHortator/Data Files
 RoaringArenaBettingandBloodletting/00 Core
 RoaringArenaBettingandBloodletting/02 Vivec Options/01 BCoM/01 Default BCoM
+RoaringArenaBettingandBloodletting/03 Dock Options/02 Witness Structure
 RoaringArenaBettingandBloodletting/07 Optional Plugins
 RoaringArenaBettingandBloodletting/07 Optional Plugins/BloodmoonOptions/02 TombOfTheSnowPrince
 RoaringArenaBettingandBloodletting/noVO/Data Files
@@ -557,7 +567,6 @@ EbonheartUnderworks
 BeautifulCitiesofMorrowind/Patches/38 Bounty Hunter Assignments
 FrozeninTime
 AndranoAncestralTombRemastered
-SorcererofAlteration
 AspectofAzura/00 Core
 AspectofAzura/01 OpenMW Addons
 AncientFoes/Ancient Foes - Version 1.1
@@ -723,6 +732,7 @@ MOMWPatches/19 Uvirith's Legacy+OAAB Tel Mora Patch
 MOMWPatches/21 Imperial Factions Patched
 AnNwahsGuideToModernCultureAndMythology
 ActionCameraSwap
+OpenMWConsumingAnimated
 MOMWGameplay/00 Core
 PerfectPlacement
 BoundBalance
@@ -744,6 +754,8 @@ MOMWPostProcessingPack/02 OMWFX-Shaders
 MOMWPostProcessingPack/03 ZesterersVolumetricClouds
 MOMWPostProcessingPack/04 WareyaOpenMWShaders
 ChocolateUI
+OpenMWAlchemyRedone/TPA_Alchemy_Redone
+SaneCustomPotionsOpenMW
 Enchantingiconsasyouwish/Ice/Data Files
 SmallSkyrimCrosshairOpenMWcompatible
 TheSearchfortheWhiteWave/01 OpenMW Addons
@@ -753,7 +765,9 @@ SkyrimStyleQuestNotificationsLegendaryEdition/Data Files
 SkyrimStyleQuestNotificationsGreatPatchHub
 ScalableDwemerPuzzleBoxRandomizer
 HarvestLights
+OpenMWHUDMarkersDetectspells/HUDMarkers
 VanillaStyleHDIconsforAttributesandSkills
+QuestmanModernQuestJournalOpenMW
 GonzosSplashScreens/00 Core
 GonzosSplashScreens/01 Monopteryx Creature Art
 GonzosSplashScreens/02 Wagner Vvardenfell Maps
@@ -762,10 +776,10 @@ GonzosSplashScreens/04 Wagner Tribunal Map
 GonzosSplashScreens/05 Tamriel Rebuilt Maps
 GonzosSplashScreens/06 Myrcenart Addon
 MonosMinorModdities/UpscaledJournalandBookmarkBGReplacement/01 2x Resolution Textures
-AlternativeTrueTypeFonts
 BigIcons/07 8X Textured
 VvardenfellAnimatedMainMenu/00 Animated Main Menu
 HDIntroCinematicEnglish
+OpenMWSharedRayLibrary/SharedRay
 # insert new entries above
 MOMWToolsPack
 SophiesSkoomaSweetshoppe/30 Temporary Fixes

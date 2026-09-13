@@ -7,3 +7,10 @@ mods:
       - file_name: Action Camera Swap
     plugins:
       - action-camera-swap.omwscripts
+
+  - name: (OpenMW) Consuming Animated
+    url: https://www.nexusmods.com/morrowind/mods/59069
+    download_info:
+      - file_name: Consuming Animated
+    plugins:
+      - Consuming Animated.omwscripts

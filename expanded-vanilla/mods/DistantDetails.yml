@@ -1,0 +1,27 @@
+category: DistantDetails
+
+mods:
+  - name: 'Distant Fixes: Lua Edition'
+    url: https://modding-openmw.gitlab.io/distant-fixes-lua-edition/
+    download_info:
+      - file_name: 'Distant Fixes: Lua Edition'
+    plugins:
+      - distant-fixes-lua-edition.omwscripts
+
+  - name: Distant Ebon Tower for OpenMW
+    url: https://www.nexusmods.com/morrowind/mods/54784
+    download_info:
+      - file_name: Distant Ebon Tower
+    plugins:
+      - DistantEbonTower.ESP
+
+  - name: Distant Seafloor for OpenMW
+    url: https://www.nexusmods.com/morrowind/mods/50796
+    download_info:
+      - file_name: Distant_Seafloor_2.01
+    data_paths:
+      - 00 Core
+      - 01 Patch for TOTSP 2.3.0 Solstheim location
+    plugins:
+      - distant_seafloor_2.00.esm
+      - distant seafloor TOTSP 2.3.0 edges fix.esp

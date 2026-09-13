@@ -46,6 +46,14 @@ mods:
     plugins:
       - third-person-alt-attacks.omwscripts
 
+  - name: OpenMW Dynamic Animations
+    url: https://www.nexusmods.com/morrowind/mods/57633
+    download_info:
+      - file_name: Third Person Alt Attacks Better Performance Patch
+        extract_to: 3rdPersonPatch
+    data_paths:
+      - 3rdPersonPatch
+
   - name: openmw-animated-levitation
     url: https://gitlab.com/fallchildren/openmw-animated-levitation
     download_info:

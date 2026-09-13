@@ -13,16 +13,6 @@ mods:
       - Interface
       - atlas
 
-  - name: Necrom - Arkitektora of Morrowind
-    url: https://www.nexusmods.com/morrowind/mods/46289
-    download_info:
-      - file_name: Necrom Arkitektora - HQ
-      - file_name: Necrom Minor Meshes Fixes
-        extract_to: NecromMinorMeshesFixes
-    data_paths:
-      - HQ
-      - NecromMinorMeshesFixes
-
   - name: The Doors of Oblivion Full Upscale
     url: https://www.nexusmods.com/morrowind/mods/53351
     download_info:

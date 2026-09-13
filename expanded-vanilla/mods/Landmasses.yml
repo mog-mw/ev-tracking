@@ -20,19 +20,16 @@ mods:
     data_paths:
       - 00 Core
     plugins:
-      - Cyr_Main.esm
+      - Cyr_Main.ESM
 
   - name: 'Skyrim: Home Of The Nords'
     url: https://www.nexusmods.com/morrowind/mods/44921
     download_info:
       - file_name: Sky_Main
     data_paths:
-      - 00 Core
-      - 01 Grass for MGEXE and OpenMW
+      - 00 Data Files
     plugins:
       - Sky_Main.esm
-    groundcover:
-      - Sky_Main_Grass.esp
     settings: |
       [Groundcover]
       enabled = true

@@ -1,0 +1,57 @@
+category: MeshReplacers
+
+mods:
+  - name: Morrowind Optimization Patch
+    url: https://www.nexusmods.com/morrowind/mods/45384
+    download_info:
+      - file_name: Morrowind Optimization Patch
+    data_paths:
+      - 00 Core
+      - 04 Better Vanilla Textures
+      - 05 Graphic Herbalism Patch
+      - 02 Weapon Sheathing Patch
+
+  - name: Project Atlas
+    url: https://www.nexusmods.com/morrowind/mods/45399
+    download_info:
+      - file_name: Project Atlas
+    data_paths:
+      - 00 Core
+      - 01 Textures - MET
+      - 02 Urns - Smoothed
+      - 03 Redware - Smoothed
+      - 07 Graphic Herbalism Patch
+      - 06 Glow in the Dahrk Patch
+      - 08 ILFAS Patch
+
+  - name: Mesh Fix v1.2
+    url: https://web.archive.org/web/20150619182034/http://mw.modhistory.com/download-15-6088
+    dl_url: https://modding-openmw.com/files/Mesh Fix v1.2.7z
+    download_info:
+      - file_name: Mesh Fix v1.2
+        actions:
+          - action: remove
+            path: Meshes/f/Furn_Com_Bar_01.nif
+
+  - name: Correct Meshes
+    url: https://www.nexusmods.com/morrowind/mods/39348
+    download_info:
+      - file_name: Correct_Meshes_4.9
+        actions:
+          - action: remove
+            path: Data Files/BookArt
+    data_paths:
+      - Data Files
+
+  - name: Properly Smoothed Meshes
+    url: https://www.nexusmods.com/morrowind/mods/46747
+    download_info:
+      - file_name: Properly Smoothed Meshes
+    data_paths:
+      - 00 Core
+      - 01 Optional Textures
+      - 03 Higher Poly Glowing Candles
+      - 04 Reflection Mapped
+      - 05 Beaker, Flasks - clear glass
+      - 07 Barrel - no rivets
+      - 08 Potted Plant - redware

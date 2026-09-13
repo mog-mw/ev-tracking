@@ -13,19 +13,25 @@ RoaringArena.esm
 TR_Mainland.esm
 OAAB_Data.esm
 Sky_Main.esm
-Cyr_Main.esm
+Cyr_Main.ESM
 Solstheim Tomb of The Snow Prince.esm
 AFFresh.esm
 OAAB - Tombs and Towers.esm
+SharedRay.omwscripts
 FollowerDetectionUtil.omwscripts
 FriendlierFire.omwscripts
 BestFriendsForever.omwscripts
 StatsWindow.ESP
 StatsWindow.omwscripts
+removeSpellFix.omwaddon
+MagicWindowExtender.omwscripts
+SpellTrader.omwscripts
+InventoryExtender.omwscripts
 ncg.omwaddon
 ncg.omwscripts
 skill-evolution.omwaddon
 skill-evolution.omwscripts
+BetterArmorTraining.omwscripts
 OAAB_Saplings OpenMW Patch.ESP
 DistantEbonTower.ESP
 Wares_lists_OAAB.ESP
@@ -64,7 +70,6 @@ Samarys Ancestral Tomb Expanded.esp
 Samarys Ancestral Tomb Expanded Corpse Fix.esp
 Sanctus Shrine.esp
 AndranoTombRemastered.esp
-Sorcerer of Alteration.ESP
 Aspect of Azura.ESP
 OAAB - Foyada Mamaea.ESP
 Manor Banners.ESP
@@ -87,17 +92,14 @@ LuaMultiMark.omwscripts
 Finished Morrowind - CORE PATCH - Part 4 - More Audio Dialogue for Service NPCs.ESP
 DD_Caldera_Expansion.esp
 DD_Caldera_Expansion_OpenMWFix.esp
-Speechcraft Rebalance.omwaddon
-SpeechcraftRebalanceRebalanced.esp
-Talking Trains Speechcraft.omwscripts
+betterpersuasionTRPT.esp
+AFFresh_BBTaP_Patch.omwaddon
+BBTaP GMST Addon.omwaddon
 wandering-creature-merchants-lua-edition.omwscripts
 wandering-creature-merchants-lua-edition.omwaddon
 Pickpocket Rebalance.omwaddon
-Stats & Potions Limit.esp
-Stats & Potions Limit.omwscripts
-AH_GMSTs.ESP
-AH_Magic.ESP
-AH_Ingredients_TD&OAAB.omwaddon
+SPT Limits.esp
+SPT Limits.omwscripts
 bms.omwscripts
 FtRP_Services.ESP
 PR Real Disposition Base.esp
@@ -149,7 +151,6 @@ RP_Great_Scathes.ESP
 RockyAzurasCoast.ESP
 Shipyards of Vvardenfell.esp
 gondoliers_license.esp
-ComfyPillowForARestfulSleep.ESP
 OAAB Dwemer Pavements.esm
 Dwemer Legacy Reforged - Bthungthumz and Druscashti.esp
 TracklessGrazelandOpenMW.esp
@@ -175,9 +176,6 @@ OAAB - Shipwrecks.esm
 OAAB - Shipwrecks - TR Patch.ESP
 Justice4Khartag.esp
 OAAB_Shipwrecks_JFK_patch.esp
-Projectile Overhaul - Faster Magic Missiles.esp
-Projectile Overhaul - Faster Projectiles.esp
-Projectile Overhaul - Recovery Chance.esp
 Containers Animated.esp
 Velothi Wall Art.ESP
 Concept art palace.ESP
@@ -232,8 +230,6 @@ quarraclan_refreshed - Tamriel_Data.esp
 Cutting Room Floor - Items TR.esp
 Quests for Clans and Vampire Legends.ESP
 QCVL_BCoM_fix.esp
-Quill of Feyfolken 2.0.esp
-Quill of Feyfolken 2.0-OpenMW-Patch.omwaddon
 nopopup-chargen.esp
 UL_3.5_TR_26.08_Add-on.esp
 Cutting Room Floor - Voice Lines.esp
@@ -244,7 +240,6 @@ Tel Eurus Anticheese.esp
 Ancient Foes.esp
 Caldera Priory.ESP
 The Devil's Doorstep.ESP
-TabletopAlchemy.omwscripts
 Tamrielic Integrations - Levelled Items.ESP
 Tamrielic Integrations - OAAB Levelled Tweaks.ESP
 Tamrielic Integrations - Creature Loot + Tweaks.ESP
@@ -287,14 +282,11 @@ The Grove of Ben'Abi Enhanced.ESP
 RacesRESPECted.esp
 racesrespected.omwscripts
 BirthsignsRESPECted.esp
-Practical Necromancy.omwaddon
-Practical Necromancy Vendor Patch.esp
-Practical Necromancy+OAAB Fix.esp
-Spell_Effect_Rebalance_Open.ESP
+Reanimation Spell.omwaddon
+Reanimation Spell.omwscripts
 NoWitnessNoBounty.omwaddon
 NoWitnessNoBounty.omwscripts
 shield-unequipper.omwscripts
-Corporeal-Carryable-Containers.omwscripts
 Ash Vampire Script Fix.esp
 Sixth House Rebalance.ESP
 Sunder and keening hurt on pickup.ESP
@@ -336,14 +328,12 @@ CybSoullessSummonsTD.omwaddon
 Daedra Use Bound Equipment for OpenMW.omwscripts
 Clean_Vennin's Hlaalu Tomb.ESP
 Clean_Vennin's Shal Overhaul.ESP
-VeninXPracticalNecromancy.esp
 Shal Overhaul Skeleton Fix.esp
 Clean_Vennin's Lleran Overhaul.ESP
 Clean_Vennin's Punabi.ESP
 Nordic Dagon Fel NPCs.ESP
 TR_BCOM_Patch.ESP
 Province_Cyrodiil_BCOM_patch.ESP
-ZEF_FocusMagicka_1.2.2.esp
 BCOM_Cluttered_Canal.ESP
 Superb Shulk Eggmine.ESP
 Dungeon Details --  Abaesen-Pulu Egg Mine.esp
@@ -410,6 +400,7 @@ Djangos Dialogue - Patch for Purists.esp
 Improved Inns Expanded.esp
 Improved Inns Expanded - PC Addon.esp
 Improved Inns Expanded - SHotN Addon.esp
+Natural Wildlife.omwscripts
 Nordic Dagon Fel.ESP
 Dagon Fel Mill.ESP
 Dagon_Fel_Lighthouse.ESP
@@ -449,6 +440,7 @@ BCoM_Imperial_Gaehouse_Buckmoth.ESP
 BCoM_Imperial_Gaehouse_MoonMoth.ESP
 BCoM_Imperial_Gatehouse_Pelagiad.ESP
 AreaEffectArrows.esp
+MRF-AreaEffectArrows-MOMW-patch.omwaddon
 Mamaea Awakened.ESP
 MamaeaAwakenedOpenMWPatch.esp
 Argonian Full Helms OpenMW-Lua.omwaddon
@@ -494,6 +486,7 @@ The_magic_rock_of_Maar_Gan.ESP
 CalderaGovernorsManor.ESP
 TheForgottenShields - Artifacts_NG.esp
 RoaringArena.ESP
+RoaringArena_ExteriorPorts.ESP
 RoaringArena_MageRobes.ESP
 RoaringArena_OAAB.ESP
 RoaringArena_Solstheim.ESP
@@ -508,8 +501,7 @@ Blademeister_Kumarahaz_Patch.esp
 Tel Branora Expansion.ESP
 Tales of Tel Branora.esp
 Building Up Uvirith's Legacy1.1.ESP
-pharis-magicka-regeneration.omwaddon
-pharis-magicka-regeneration.omwscripts
+state-based-magicka-regen.omwscripts
 Clear Your Name.esp
 Dungeon Details -- Urshi burial.esp
 DungeonDetailsUrshilakuFixes.esp
@@ -522,6 +514,8 @@ Better Vampires TD.ESP
 Better_Vampires.omwscripts
 MC_MOMW_Patch.esp
 DSO Ashalmimilkala Water Height Fix.esp
+MRF-spells.omwaddon
+MRF.omwscripts
 ReAnimation_API.omwscripts
 ReAnimation_v2_Rogue.omwscripts
 third-person-alt-attacks.omwscripts
@@ -530,9 +524,7 @@ footsteps.omwscripts
 animated-levitation.omwscripts
 FatigueSpeedAndCarryWeightRebalance.omwaddon
 smart-ammo.omwscripts
-TimescaleChange.omwaddon
-signpost-fast-travel.omwscripts
-signpost-fast-travel.omwaddon
+DynamicTimescale.omwscripts
 harvest-lights.omwscripts
 action-camera-swap.omwscripts
 an-nwahs-guide-to-modern-culture-and-mythology.omwaddon
@@ -554,20 +546,36 @@ MOMW Sadrith Mora Pathgrid Reset.esp
 bcomxpfp.omwaddon
 Tamriel_Data.omwscripts
 tamrielrebuilt.omwscripts
+fresh-loot.omwscripts
 protected-beasts.omwscripts
 SSQN.omwscripts
+FairCare.omwaddon
+FairCare.omwscripts
+TakeCover.omwscripts
+HUDMarkers.omwscripts
 dayspassedfix.omwaddon
-SolCombatPack.omwscripts
+IronFistForOpenMW.omwscripts
+BullseyeGMSTs.omwaddon
+Bullseye.omwscripts
+ArrowStick.omwscripts
+MoveLikeThis.omwscripts
+ngardencgdescription.omwaddon
+ngarde.omwscripts
+SneakIsGoodNow.omwaddon
+SneakIsGoodNow.omwscripts
+SneakFatigueDrain.omwscripts
+ReadingOverhaul.omwscripts
+setbonus.omwscripts
+setbonus_rebalance.omwscripts
 friendly-autosave.omwscripts
 LightHotkey.omwscripts
 convenient-thief-tools.omwscripts
+TPA_Alchemy_Redone.omwscripts
+sanecustompotions.omwscripts
+questman.omwscripts
 S3maphore.esp
-# insert new entries above
-momw-gameplay.omwscripts
-momw-gameplay-controls.omwscripts
-momw-gameplay-camera.omwscripts
-momw-gameplay-balance.omwscripts
-momw-gameplay-ui.omwscripts
+Consuming Animated.omwscripts
+momw-gameplay-EV.omwscripts
 delta-merged.omwaddon
 deleted_groundcover.omwaddon
 S3LightFixes.omwaddon

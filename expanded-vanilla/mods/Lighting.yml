@@ -11,3 +11,20 @@ mods:
     settings: |
       [Shaders]
       clamp lighting = false
+
+  - name: Glow in the Dahrk
+    url: https://www.nexusmods.com/morrowind/mods/45886
+    download_info:
+      - file_name: Glow in the Dahrk
+    data_paths:
+      - 00 Core
+      - 01 Hi Res Window Texture Replacer
+      - 04 Raven Rock Glass Windows
+      - 07 Telvanni Tower Interior Glow OpenMW
+
+  - name: Harvest Lights
+    url: https://modding-openmw.gitlab.io/harvest-lights/
+    download_info:
+      - file_name: Harvest Lights
+    plugins:
+      - harvest-lights.omwscripts

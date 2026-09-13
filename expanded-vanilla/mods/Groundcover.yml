@@ -83,3 +83,10 @@ mods:
       [Groundcover]
       enabled = true
       stomp intensity = 2
+
+  - name: Skyrim Home Of The Nords Grass
+    url: https://www.nexusmods.com/morrowind/mods/60053
+    download_info:
+      - file_name: SHotN Grass
+    groundcover:
+      - Sky_Grass.esp

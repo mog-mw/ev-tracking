@@ -1,15 +1,6 @@
-category: Landscape
+category: Exteriors
 
 mods:
-  - name: Mistify
-    url: https://www.nexusmods.com/morrowind/mods/48112
-    download_info:
-      - file_name: Mistify
-    data_paths:
-      - 00 Core
-    plugins:
-      - mistify.ESP
-
   - name: OAAB - Foyada Mamaea
     url: https://www.nexusmods.com/morrowind/mods/46424
     download_info:
@@ -228,3 +219,34 @@ mods:
     url: https://www.nexusmods.com/morrowind/mods/54014
     download_info:
       - file_name: Immersive Grotto Entrances - Vanilla Version
+
+  - name: OAAB Dwemer Pavements
+    url: https://www.nexusmods.com/morrowind/mods/50237
+    download_info:
+      - file_name: OAAB Dwemer Pavements
+    data_paths:
+      - 00 Core
+      - 01 Trackless Grazelands Patch
+    plugins:
+      - OAAB Dwemer Pavements.esm
+      - Trackless Grazeland OAAB Dwemer Pavements Patch.ESP
+
+  - name: OAAB Pomegranates
+    url: https://www.nexusmods.com/morrowind/mods/50726
+    download_info:
+      - file_name: OAAB Pomegranates
+    data_paths:
+      - 00 Core
+      - 02 HD Textures
+      - 03 SSQN OpenMW
+    plugins:
+      - OAAB Pomegranates.ESP
+
+  - name: Sanctus Shrine
+    url: https://www.nexusmods.com/morrowind/mods/47841
+    download_info:
+      - file_name: Sanctus Shrine
+    data_paths:
+      - Data files
+    plugins:
+      - Sanctus Shrine.esp

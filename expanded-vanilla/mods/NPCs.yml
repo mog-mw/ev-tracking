@@ -1,25 +1,6 @@
 category: NPCs
 
 mods:
-  - name: Familiar Faces by Caleb
-    url: https://www.nexusmods.com/morrowind/mods/50093
-    download_info:
-      - file_name: Familiar Faces
-
-  - name: Facelift for Tamriel Data
-    url: https://www.nexusmods.com/morrowind/mods/53935
-    download_info:
-      - file_name: Facelift_TR_Meshes
-      - file_name: Facelift_TR_Textures
-
-  - name: Rotat's Corprus Natives Replacer
-    url: https://www.nexusmods.com/morrowind/mods/52002
-    download_info:
-      - file_name: Corprus Natives - Replacer
-    data_paths:
-      - ''
-      - 512px
-
   - name: Repopulated Morrowind
     url: https://www.nexusmods.com/morrowind/mods/51174
     download_info:
@@ -156,42 +137,3 @@ mods:
       - file_name: M'Aiq on the Mainland
     plugins:
       - MaiqMainland.esp
-
-  - name: FMBP - Greet Service
-    url: https://www.nexusmods.com/morrowind/mods/50937
-    download_info:
-      - file_name: Finished Morrowind - CORE PATCH - Part 4 - More Audio Dialogue for Service NPCs
-    plugins:
-      - Finished Morrowind - CORE PATCH - Part 4 - More Audio Dialogue for Service NPCs.ESP
-
-  - name: LDM - Context Matters
-    url: https://www.nexusmods.com/morrowind/mods/48273
-    download_info:
-      - file_name: LDM - Context Matters
-    plugins:
-      - LDM - Context Matters 1.7.ESP
-
-  - name: Djangos Dialogue 1.4
-    url: https://www.nexusmods.com/morrowind/mods/47253
-    download_info:
-      - file_name: Djangos Dialogue
-    data_paths:
-      - Djangos Dialogue 1.44
-    plugins:
-      - Djangos Dialogue.ESP
-
-  - name: Best Friends Forever (OpenMW)
-    url: https://www.nexusmods.com/morrowind/mods/59384
-    download_info:
-      - file_name: BestFriendsForever
-    plugins:
-      - BestFriendsForever.omwscripts
-
-  - name: Wandering Umbra
-    url: https://www.nexusmods.com/morrowind/mods/44913
-    download_info:
-      - file_name: Wandering Umbra
-    data_paths:
-      - wandering_umbra
-    plugins:
-      - wandering_umbra.ESP

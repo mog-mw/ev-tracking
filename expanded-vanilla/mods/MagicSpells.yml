@@ -7,3 +7,11 @@ mods:
       - file_name: Daisys Lua Multimark
     plugins:
       - LuaMultiMark.omwscripts
+
+  - name: Loafy's Necromancy - Reanimate Dead(OpenMW .51)
+    url: https://www.nexusmods.com/morrowind/mods/58901
+    download_info:
+      - file_name: Loafy's Reanimate Spell V1.2_5
+    plugins:
+      - Reanimation Spell.omwaddon
+      - Reanimation Spell.omwscripts

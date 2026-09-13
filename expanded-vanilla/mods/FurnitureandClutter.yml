@@ -1,19 +1,6 @@
 category: FurnitureandClutter
 
 mods:
-  - name: Properly Smoothed Meshes
-    url: https://www.nexusmods.com/morrowind/mods/46747
-    download_info:
-      - file_name: Properly Smoothed Meshes
-    data_paths:
-      - 00 Core
-      - 01 Optional Textures
-      - 03 Higher Poly Glowing Candles
-      - 04 Reflection Mapped
-      - 05 Beaker, Flasks - clear glass
-      - 07 Barrel - no rivets
-      - 08 Potted Plant - redware
-
   - name: OpenMW vanilla candles patched with Enlightened Flames and ILFAS
     url: https://www.nexusmods.com/morrowind/mods/54155
     download_info:
@@ -77,23 +64,6 @@ mods:
       - file_name: How I Shot Web
     data_paths:
       - How I Shot Web
-
-  - name: Immersive Telvanni Bug Musk
-    url: https://www.nexusmods.com/morrowind/mods/48327
-    download_info:
-      - file_name: Immersive Telvanni Bug Musk
-    plugins:
-      - BugMuskPerfume.esp
-
-  - name: Stuporstar's Books for Wares
-    url: https://www.nexusmods.com/morrowind/mods/49808
-    download_info:
-      - file_name: Stuporstar's books for Wares
-    data_paths:
-      - 00 Core
-      - 01 OAAB
-    plugins:
-      - ST_Books_Wares_OAAB.ESP
 
   - name: The Madstone
     url: https://www.nexusmods.com/morrowind/mods/47653

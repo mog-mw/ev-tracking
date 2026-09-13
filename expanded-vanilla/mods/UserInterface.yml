@@ -1,6 +1,44 @@
 category: UserInterface
 
 mods:
+  - name: Inventory Extender (OpenMW)
+    url: https://www.nexusmods.com/morrowind/mods/59205
+    download_info:
+      - file_name: Inventory Extender
+    plugins:
+      - InventoryExtender.omwscripts
+
+  - name: Magic Window Extender (OpenMW)
+    url: https://www.nexusmods.com/morrowind/mods/58064
+    download_info:
+      - file_name: Magic Window Extender
+    plugins:
+      - removeSpellFix.omwaddon
+      - MagicWindowExtender.omwscripts
+
+  - name: Spell Trader (OpenMW)
+    url: https://www.nexusmods.com/morrowind/mods/59229
+    download_info:
+      - file_name: SpellTraderV1.2.3
+    plugins:
+      - SpellTrader.omwscripts
+
+  - name: (OpenMW) Alchemy Redone
+    url: https://www.nexusmods.com/morrowind/mods/59559
+    download_info:
+      - file_name: TPA Alchemy Redone
+    data_paths:
+      - TPA_Alchemy_Redone
+    plugins:
+      - TPA_Alchemy_Redone.omwscripts
+
+  - name: Questman - Modern Quest Journal (OpenMW)
+    url: https://www.nexusmods.com/morrowind/mods/59493
+    download_info:
+      - file_name: Questman 1.4
+    plugins:
+      - questman.omwscripts
+
   - name: Chocolate UI
     url: https://www.nexusmods.com/morrowind/mods/43076
     download_info:
@@ -83,11 +121,19 @@ mods:
     download_info:
       - file_name: SSQN Patches
 
-  - name: HD Intro Cinematic - English
-    url: https://www.nexusmods.com/morrowind/mods/39329
+  - name: (OpenMW) HUDMarkers - Detect spells
+    url: https://www.nexusmods.com/morrowind/mods/57112
     download_info:
-      - file_name: 16x9 Version
-        actions:
-          - action: rename
-            src: Video/mw_intro_16x9_en.bik
-            dst: Video/mw_intro.bik
+      - file_name: HUDMarkers
+    data_paths:
+      - HUDMarkers
+    plugins:
+      - HUDMarkers.omwscripts
+
+  - name: Stats Window Extender (OpenMW)
+    url: https://www.nexusmods.com/morrowind/mods/57727
+    download_info:
+      - file_name: Stats Window Extender
+    plugins:
+      - StatsWindow.ESP
+      - StatsWindow.omwscripts
