@@ -10,6 +10,10 @@ mods:
     plugins:
       - ngardencgdescription.omwaddon
       - ngarde.omwscripts
+    settings: |
+      [Game]
+      smooth animation transitions = true
+      smooth movement = true
 
   - name: Move-Like-This - Directional Attacks (OpenMW)
     url: https://www.nexusmods.com/morrowind/mods/59154
