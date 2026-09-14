@@ -41,3 +41,6 @@ mods:
     url: https://www.nexusmods.com/morrowind/mods/55392
     download_info:
       - file_name: OpenMW Dynamic Water Meshes
+    settings: |
+      [Shaders]
+      soft particles = true

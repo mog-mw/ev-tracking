@@ -8,13 +8,6 @@ mods:
     plugins:
       - Unique_CaveRats.ESP
 
-  - name: Natural Wildlife
-    url: https://www.nexusmods.com/morrowind/mods/59552
-    download_info:
-      - file_name: Natural Wildlife 1.1.1
-    plugins:
-      - Natural Wildlife.omwscripts
-
   - name: Vanilla friendly creatures and undeads expansion
     url: https://www.nexusmods.com/morrowind/mods/48818
     download_info:
