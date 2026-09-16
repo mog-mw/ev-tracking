@@ -58,3 +58,10 @@ mods:
       - SharedRay
     plugins:
       - SharedRay.omwscripts
+
+  - name: Max Yari's Script Services
+    url: https://www.nexusmods.com/morrowind/mods/60256
+    download_info:
+      - file_name: Max Yari Script Services (MSS)
+    plugins:
+      - MaxYariScriptServices.omwscripts

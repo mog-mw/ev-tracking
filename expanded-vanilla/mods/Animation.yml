@@ -24,20 +24,19 @@ mods:
       - ''
       - animations/xbase_anim.1st
 
-  - name: ReAnimation v2 - Rogue - first-person animation pack
+  - name: ReAnimation v3 - Complete - first-person animation pack
     url: https://www.nexusmods.com/morrowind/mods/52596
     download_info:
-      - file_name: ReAnimation v2 Rogue - OpenMW
+      - file_name: ReAnimation v3 - Complete - OpenMW
         actions:
           - action: remove
             paths:
               - Animations/xbase_anim.1st/xDaggerIdle.kf
-              - Animations/xbase_anim.1st/xDaggerMovement.kf
               - Animations/xbase_anim.1st/xDaggerSneakIdle.kf
               - Animations/xbase_anim.1st/xDaggerSneakMovement.kf
     plugins:
       - ReAnimation_API.omwscripts
-      - ReAnimation_v2_Rogue.omwscripts
+      - ReAnimation_v3.omwscripts
 
   - name: 3rd Person alt Attacks
     url: https://gitlab.com/fallchildren/openmw-third-person-alt-attacks

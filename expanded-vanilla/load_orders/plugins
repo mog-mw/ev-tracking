@@ -27,10 +27,10 @@ removeSpellFix.omwaddon
 MagicWindowExtender.omwscripts
 SpellTrader.omwscripts
 InventoryExtender.omwscripts
-ncg.omwaddon
-ncg.omwscripts
 skill-evolution.omwaddon
 skill-evolution.omwscripts
+ncg.omwaddon
+ncg.omwscripts
 BetterArmorTraining.omwscripts
 OAAB_Saplings OpenMW Patch.ESP
 DistantEbonTower.ESP
@@ -516,7 +516,8 @@ DSO Ashalmimilkala Water Height Fix.esp
 MRF-spells.omwaddon
 MRF.omwscripts
 ReAnimation_API.omwscripts
-ReAnimation_v2_Rogue.omwscripts
+MaxYariScriptServices.omwscripts
+ReAnimation_v3.omwscripts
 third-person-alt-attacks.omwscripts
 Impact Effects.omwscripts
 footsteps.omwscripts
