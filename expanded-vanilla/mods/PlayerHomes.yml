@@ -64,7 +64,6 @@ mods:
       - 02 HD Textures
     plugins:
       - The Popular Plague.ESP
-      - The Popular Plague.omwscripts
 
   - name: Rather Nice Factor's Estate
     url: https://www.nexusmods.com/morrowind/mods/47933

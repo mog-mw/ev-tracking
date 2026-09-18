@@ -31,6 +31,24 @@ mods:
     plugins:
       - Djangos Dialogue.ESP
 
+  - name: Idle Talk
+    url: https://www.nexusmods.com/morrowind/mods/46948
+    download_info:
+      - file_name: Idle Talk
+    data_paths:
+      - Idle Talk
+    plugins:
+      - Idle Talk.ESP
+
+  - name: Nastier Camonna Tong
+    url: https://www.nexusmods.com/morrowind/mods/22601
+    download_info:
+      - file_name: NastierCtong12
+    data_paths:
+      - Nasty Camonna Tong
+    plugins:
+      - Nasty Camonna Tong.esp
+
   - name: Greetings for No Lore
     url: https://www.nexusmods.com/morrowind/mods/46063
     download_info:

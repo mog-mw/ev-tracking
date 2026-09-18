@@ -77,6 +77,7 @@ mistify.ESP
 The Dream is the Door.ESP
 diverse-blood-openmw-lua.omwscripts
 Silt Strider Animation Restored.ESP
+Nasty Camonna Tong.esp
 Hospitality_Papers_Expanded_v2.7.esp
 Cutting Room Floor - Characters.esp
 Cutting Room Floor - Missing Persons TR.esp
@@ -151,6 +152,7 @@ RP_Great_Scathes.ESP
 RockyAzurasCoast.ESP
 Shipyards of Vvardenfell.esp
 gondoliers_license.esp
+Dwemer Legacy Reforged - Arkngthunch-Sturdumz.esp
 OAAB Dwemer Pavements.esm
 Dwemer Legacy Reforged - Bthungthumz and Druscashti.esp
 TracklessGrazelandOpenMW.esp
@@ -231,6 +233,7 @@ Cutting Room Floor - Items TR.esp
 Quests for Clans and Vampire Legends.ESP
 QCVL_BCoM_fix.esp
 nopopup-chargen.esp
+Idle Talk.ESP
 UL_3.5_TR_26.08_Add-on.esp
 Cutting Room Floor - Voice Lines.esp
 Umbra, Blademaster.ESP
@@ -365,6 +368,9 @@ DM_TelvRRtoOAAB.ESP
 ROHT_2_0_8.ESP
 UL_3.5_RoHT_1.52_Add-on.esp
 UL_3.5_OpenMW_1.3_Add-on.esp
+Memento Mori - BCOM Patch.ESP
+Memento Mori.ESP
+Memento Mori - OpenMW Patch.ESP
 RP_Maar_Gan.ESP
 RP_Maar_Gan_Ashlander_Addon.ESP
 BCOM_Decorated_Cantons.ESP
@@ -373,9 +379,6 @@ BCOM_Vivec_Planters.ESP
 BCOM_Vivec_Street_Vendors.ESP
 BCOM_Vivec_Temple_Fountains.ESP
 HumblePrayerHall.ESP
-Memento Mori - BCOM Patch.ESP
-Memento Mori.ESP
-Memento Mori - OpenMW Patch.ESP
 MementoMori_VanillaStatues_patch.esp
 Planters for Ajira.ESP
 Under-Skar.ESP
@@ -400,6 +403,7 @@ Djangos Dialogue - Patch for Purists.esp
 Improved Inns Expanded.esp
 Improved Inns Expanded - PC Addon.esp
 Improved Inns Expanded - SHotN Addon.esp
+Natural Wildlife.omwscripts
 Nordic Dagon Fel.ESP
 Dagon Fel Mill.ESP
 Dagon_Fel_Lighthouse.ESP
@@ -483,7 +487,6 @@ OAAB Brother Junipers Twin Lamps.esp
 sm_tel_robe.ESP
 The_magic_rock_of_Maar_Gan.ESP
 CalderaGovernorsManor.ESP
-TheForgottenShields - Artifacts_NG.esp
 RoaringArena.ESP
 RoaringArena_ExteriorPorts.ESP
 RoaringArena_MageRobes.ESP
@@ -514,7 +517,6 @@ Better_Vampires.omwscripts
 MC_MOMW_Patch.esp
 DSO Ashalmimilkala Water Height Fix.esp
 MRF-spells.omwaddon
-MRF.omwscripts
 ReAnimation_API.omwscripts
 MaxYariScriptServices.omwscripts
 ReAnimation_v3.omwscripts
@@ -525,6 +527,8 @@ animated-levitation.omwscripts
 FatigueSpeedAndCarryWeightRebalance.omwaddon
 smart-ammo.omwscripts
 DynamicTimescale.omwscripts
+signpost-fast-travel.omwaddon
+signpost-fast-travel.omwscripts
 harvest-lights.omwscripts
 action-camera-swap.omwscripts
 an-nwahs-guide-to-modern-culture-and-mythology.omwaddon
@@ -548,6 +552,7 @@ Tamriel_Data.omwscripts
 tamrielrebuilt.omwscripts
 fresh-loot.omwscripts
 protected-beasts.omwscripts
+MRF.omwscripts
 SSQN.omwscripts
 FairCare.omwaddon
 FairCare.omwscripts

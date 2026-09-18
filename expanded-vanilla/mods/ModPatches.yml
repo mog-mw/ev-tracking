@@ -71,13 +71,13 @@ mods:
       - 71 Molomo SM Ceremonial Robe Patch
       - 52 Telvanni Magister Robes Anticheese
       - 63 Adventurer's Backpack No Choice Patch
-      - 35 The Forgotten Shields - Artifacts Patched
       - 25 Blademeister+Kumarahaz The Bandit Lair Patch
       - 41 Blademeister+Daedric Shrine Overhaul Sheogorath Patch
       - 65 MAOSpellSoundsxBirthsignsRESPECted SoundFix
       - 89 BCOM x Immersive Imperial Skirt
       - 70 Caldera Mine Expanded OpenMW Fix
       - 33 AFFresh+Library of Vivec Enhanced Patch
+      - 28 The Popular Plague Lua Patch
       - 64 The Doors Of Oblivion Gargoyle OpenMWFix
       - 84 Daedric Shrine Overhaul+Patch for Purists Fix
       - 85 DSO Ashalmimilkala Water Height Fix
@@ -109,6 +109,7 @@ mods:
       - DD_Caldera_Expansion_OpenMWFix.esp
       - AFFresh+SamarysAncestralTombExpanded.esp
       - AFFreshLibraryOfVivecEnhanced.esp
+      - The Popular Plague.omwscripts
       - Daedric Shrine Overhaul Vaermina OpenMW Patch.esp
       - UL_-_Daedric_Shrine_Overhaul_Sheogorath.esp
       - Helm of Tohan Naturalized.esp
@@ -151,7 +152,6 @@ mods:
       - MamaeaAwakenedOpenMWPatch.esp
       - VenninAddamasartus_DraVashai_patch.esp
       - sm_tel_robe.ESP
-      - TheForgottenShields - Artifacts_NG.esp
       - UL_-_BCoM_Arena_Patch.esp
       - UL_-_OAAB_Tel_Mora_Patch.esp
       - Blademeister_Kumarahaz_Patch.esp
@@ -336,3 +336,8 @@ mods:
         extract_to: HDUniqueBannersandSigns
     data_paths:
       - HDUniqueBannersandSigns
+
+  - name: N'Garde Alternate Sounds
+    url: https://www.nexusmods.com/morrowind/mods/59581
+    download_info:
+      - file_name: N'Garde Parry Sounds

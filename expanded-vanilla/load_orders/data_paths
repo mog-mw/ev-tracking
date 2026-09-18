@@ -25,6 +25,7 @@ WaresUltimate/00 Core
 IndorilMansion
 RoyalBarenziah/00 Core
 RoyalBarenziah/01 Option 3
+DwemerLegacyReforgedArkngthunchSturdumz/Data Files
 DwemerLegacyReforgedBthungthumzandDruscashti/Data Files
 KogoruhnExtinctCityofAshandSulfur/Data Files
 MOMWPatches/80 RoHT+Kogoruhn Extinct City Patch
@@ -44,6 +45,7 @@ TalesfromtheAshlandsTheGreatHiveBaanBinif
 TamrielDataHD/00 Data Files
 SophiesSkoomaSweetshoppe/07 Telvanni Cephalopod Armor TD Cuirass Upscale and Color Match
 DistantEbonTowerforOpenMW
+SignpostFastTravel/00 Core
 OAABData/00 Core
 MeshFixv12
 CorrectMeshes/Data Files
@@ -262,6 +264,7 @@ DaedraUseBoundEquipmentforOpenMW
 FixedBonelordArms
 RotatsCorprusNativesReplacer
 RotatsCorprusNativesReplacer/512px
+NaturalWildlife/Natural Wildlife
 AlmalexiaRedone
 AlmalexiaRedone/HD
 YetAnotherGuardDiversity
@@ -277,10 +280,12 @@ RepopulatedMorrowind/02 BCOM Repopulated Morrowind
 RepopulatedMorrowind/04 Tomb of the Snow Prince
 RepopulatedMorrowind/06 Optional Plugins
 RepopulatedMorrowind/10 Compatability Patches
+NastierCamonnaTong/Nasty Camonna Tong
 NoMoreStageDivingDeselesDancingGirls
 GreetingsforNoLore
 FMBPGreetService
 LDMContextMatters
+IdleTalk/Idle Talk
 MOMWPatches/47 Vivec's Muatra Alternative
 ByAzura/00 Core
 ByAzura/01 High Res Textures
@@ -459,6 +464,7 @@ BullseyeMarksmanOverhaulOpenMW
 IronFistforOpenMW/Iron Fist for OpenMW
 MoveLikeThisDirectionalAttacksOpenMW
 NGardeActiveBlockandParryOpenMW/NGarde
+NGardeAlternateSounds
 ArrowStickOpenMW
 SneakisGoodNowOpenMW
 SneakFatigueDrainOpenMW
@@ -492,8 +498,6 @@ MOMWPatches/52 Telvanni Magister Robes Anticheese
 AdventurersBackpacks
 MOMWPatches/63 Adventurer's Backpack No Choice Patch
 SophiesSkoomaSweetshoppe/10 Shadow Mimicry's Backpack Retexture (host for modding-openmw.com)
-TheForgottenShieldsArtifacts/TheForgottenShields-Artifacts1.3
-MOMWPatches/35 The Forgotten Shields - Artifacts Patched
 SMMaskofDagothUr/sm_mask_eng
 SMMaskofDagothUr/update_and_normal_map
 Blademeister/Blademeister/Data Files
@@ -585,6 +589,7 @@ RedWisdomAnAshlanderProphecy/02 OpenMW Add-Ons
 ThePopularPlague/00 Core
 ThePopularPlague/01 OpenMW
 ThePopularPlague/02 HD Textures
+MOMWPatches/28 The Popular Plague Lua Patch
 AColdCell/00 Core
 TheSearchfortheWhiteWave/00 Core
 TheSearchfortheWhiteWave/02 HD Textures
