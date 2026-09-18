@@ -2,7 +2,6 @@ Morrowind.esm
 Tribunal.esm
 distant_seafloor_2.00.esm
 Bloodmoon.esm
-H3lp Yours3lf.esp
 Patch for Purists.esm
 Rise of House Telvanni.esm
 Ownership Overhaul.esm
@@ -17,6 +16,8 @@ Cyr_Main.ESM
 Solstheim Tomb of The Snow Prince.esm
 AFFresh.esm
 OAAB - Tombs and Towers.esm
+H3lp Yours3lf.esp
+MaxYariScriptServices.omwscripts
 SharedRay.omwscripts
 FollowerDetectionUtil.omwscripts
 FriendlierFire.omwscripts
@@ -518,7 +519,6 @@ MC_MOMW_Patch.esp
 DSO Ashalmimilkala Water Height Fix.esp
 MRF-spells.omwaddon
 ReAnimation_API.omwscripts
-MaxYariScriptServices.omwscripts
 ReAnimation_v3.omwscripts
 third-person-alt-attacks.omwscripts
 Impact Effects.omwscripts
