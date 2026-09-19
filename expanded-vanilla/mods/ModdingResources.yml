@@ -65,3 +65,12 @@ mods:
       - file_name: Max Yari Script Services (MSS)
     plugins:
       - MaxYariScriptServices.omwscripts
+
+  - name: (OpenMW) UI Toolkit
+    url: https://www.nexusmods.com/morrowind/mods/60303
+    download_info:
+      - file_name: UIToolkit
+    data_paths:
+      - UIToolkit
+    plugins:
+      - UIToolkit.omwscripts

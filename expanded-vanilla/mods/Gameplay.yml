@@ -162,7 +162,7 @@ mods:
   - name: Sneak is Good Now. -- OpenMW
     url: https://www.nexusmods.com/morrowind/mods/58441
     download_info:
-      - file_name: SneakIsGoodNow
+      - file_name: Sneak Is Good Now v1.1.2
     plugins:
       - SneakIsGoodNow.omwaddon
       - SneakIsGoodNow.omwscripts
