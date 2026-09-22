@@ -44,7 +44,7 @@ mods:
     plugins:
       - Bards of Bardenfell.esp
 
-  - name: Diverse Khajiit - New and Improved
+  - name: Diverse Khajiit
     url: https://www.nexusmods.com/morrowind/mods/48832
     download_info:
       - file_name: Diverse Khajiit (v3.1)

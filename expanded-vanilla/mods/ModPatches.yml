@@ -1,14 +1,14 @@
 category: ModPatches
 
 mods:
-  - name: MOMW Gameplay
-    url: https://modding-openmw.gitlab.io/momw-gameplay/
+  - name: MOMW Lua Settings
+    url: https://modding-openmw.gitlab.io/momw-lua-settings/
     download_info:
-      - file_name: MOMW Gameplay
+      - file_name: MOMW Lua Settings
     data_paths:
       - 00 Core
     plugins:
-      - momw-gameplay-EV.omwscripts
+      - momw-lua-settings-EV.omwscripts
 
   - name: Oh God Snow for Skies.iv and OpenMW
     url: https://www.nexusmods.com/morrowind/mods/50509
