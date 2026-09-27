@@ -1,7 +1,8 @@
 Morrowind/Data Files
-StaticSwitchingSystem
 H3lpYours3lfOpenMWHelperInterfaces
+StaticSwitchingSystem
 OpenMWUIToolkit/UIToolkit
+VariationFrameworkOpenMW
 PatchforPurists
 BeautifulCitiesofMorrowind/Patches/54 Area of effect Arrows
 ExpansionDelay
@@ -39,6 +40,7 @@ MOMWPatches/11 Mamaea Awakened OpenMW Patch
 BeautifulCitiesofMorrowind/Patches/80 Mamaea Awakened
 InterestingOutfitsSolstheim/1. Core
 InterestingOutfitsSolstheim/2. TOTSP Compatibility
+CybvepsJesterStashofTweaksandPatches/FewerRespawningNPCsonSolstheim
 FacesofVelAshMire/Data Files
 ConceptArtMolagAmurRegionTheGreatScathes/00 Core
 SouthernAshlandsOverhaul
@@ -46,6 +48,7 @@ TalesfromtheAshlandsTheGreatHiveBaanBinif
 TamrielDataHD/00 Data Files
 SophiesSkoomaSweetshoppe/07 Telvanni Cephalopod Armor TD Cuirass Upscale and Color Match
 DistantEbonTowerforOpenMW
+VariousModsandPatches/plaguebearers
 SignpostFastTravel/00 Core
 OAABData/00 Core
 MeshFixv12
@@ -154,7 +157,7 @@ HawiaInfrastructure
 PerfectScum
 UnholyTrinityDagothUrVemynalOdrosalRemade/Data Files
 LibraryofVivecEnhanced/00 Core
-RepopulatedVassirDidanatMine/RepopulatedVassirDidanatMine
+VariousModsandPatches/RepopulatedVassirDidanatMineLightFixed/01 Vanilla Color
 Akulakhansbestchamber/00 - Core files
 SophiesSkoomaSweetshoppe/21 Akulukhan's Best Chamber OpenMW
 ConceptArtsplantations/00 Core
@@ -162,7 +165,7 @@ SamarysAncestralTombExpanded
 MOMWPatches/88 Samarys Ancestral Tomb Corpse Fix
 SanctusShrine/Data files
 OAABFoyadaMamaea
-VariousModsandPatches/OAABFoyadaMamaeaILavaGoodPatch/00 I Lava Good
+VariousModsandPatches/OAAB_Foyada_Mamaea_Lava_Patch/00 I Lava Good
 NewIlunibi
 AldRuhnManorBanners/Data Files
 ImprovedBetterSkulls/Data Files
@@ -173,7 +176,7 @@ OpenMWContainersAnimated/Optional/kollops
 OpenMWVanillaFriendlyAnimatedBasketEdit/00 Core
 OpenMWVanillaFriendlyAnimatedBasketEdit/01 HD Textures
 KnowThyAncestors
-PublicolasMiscModEmporium/Know Thy Ancestors - Serano Tomb Fix (Main)
+MOMWPatches/03 KTA Redux + Valley of the Wind Overhaul Fix/02 Legacy
 Dunmersashpits/Data files
 StoreEntranceChimes
 StoreEntranceChimesforCyrodiilandTRMainland
@@ -197,6 +200,7 @@ SecretsoftheCrystalCity/01 HD Textures
 TheWakeofHaninIbarDadOverhaul/00 Core
 TheWakeofHaninIbarDadOverhaul/01 TR Patch
 OAABTheAshenDivide
+ValleyoftheWindOverhaul/Valley of the Wind Overhaul
 AzurasCoastRedone
 OAABGrazelands/00 Core
 OAABGrazelands/03 HD Textures
@@ -223,6 +227,8 @@ DungeonDetails/70 BC Nimawia Grotto
 DungeonDetails/100 SHEO Malmus Grotto
 MOMWPatches/73 Dungeon Details Grotto Fix
 MOMWPatches/90 Dungeon Details Urshilkau Fixes
+ForgeofHilbongardReignited
+DubdillaRemade
 TheVestigesofTukushapal/00 Core
 StormkissReforged/Stormkiss Reforged/Data Files
 TheVestigesofTukushapal/01 Stormkiss Reforged Patch
@@ -257,11 +263,28 @@ TamrielicIntegrations
 FMIUniqueLoreFriendlyCaveRats
 WingedTwilightRebalance
 AtronachRebalance
-Vanillafriendlycreaturesandundeadsexpansion/00 Core
-Vanillafriendlycreaturesandundeadsexpansion/03 Summons have 0 soul
+SoullessSummons
 CybvepsJesterStashofTweaksandPatches/SoullessSummonsDialogueFix
 CybvepsJesterStashofTweaksandPatches/SoullessSummonsforTamrielData
 DaedraUseBoundEquipmentforOpenMW
+VariousModsandPatches/daedra_use_bound_equipment_vfx_patch
+RepopulatedCreatures/00 Repopulated Creatures Core
+RepopulatedCreatures/02 Vvardenfell and Mainland Dialogue Edits
+VariousModsandPatches/repopulated_creatures_more_daedra
+VariousModsandPatches/creatures_restored/00 Core
+VariousModsandPatches/creatures_restored/10 TD Addon
+VariousModsandPatches/Skeletons/00 Core
+VariousModsandPatches/Skeletons/01 OAAB Skeletons
+VariousModsandPatches/Skeletons/02 TD Patch
+VariousModsandPatches/Skeletons/03 OAAB Tombs and Towers Patch
+VariousModsandPatches/herders
+VariousModsandPatches/diverse_draugrs/00 Core
+VariousModsandPatches/diverse_draugrs/01 No Eyes Glow After Death
+VariousModsandPatches/diverse_draugrs/02 Skeletal Draugrs
+VariousModsandPatches/diverse_draugrs/04 Dragon Priests
+VariousModsandPatches/diverse_draugrs/06 Draugr Scourges
+VariousModsandPatches/diverse_draugrs/10 Bloodmoon Rebalance Patch
+VariousModsandPatches/diverse_draugrs/11 Tamriel Data Patch
 FixedBonelordArms
 RotatsCorprusNativesReplacer
 RotatsCorprusNativesReplacer/512px
@@ -344,6 +367,7 @@ BeautifulCitiesofMorrowind/06 HD Textures
 MaarGanTownofPilgrimage/00 Core
 MaarGanTownofPilgrimage/01 Ashlander Addon
 MaarGanTownofPilgrimage/02 Magic Rock of Maar Gan
+AnthonysMinorModsandPatches/MementoMoriTownofPilgrimage/01 Normal
 SloadandSlavers/Upscaled Textures
 BeautifulCitiesofMorrowind/Patches/01 Patch for Purists
 BeautifulCitiesofMorrowind/Patches/03 OAAB Foyada Mamaea
@@ -428,6 +452,7 @@ FortheRightPrice/For the Right Price/Modular
 OwnershipOverhaul
 RealDisposition
 MDMDMoreDeadlyMorrowindDenizens
+VariousModsandPatches/mdmd_td_creatures_addon
 StatsPotionsTrainingLimitsOpenMWOblivionStyleIncluded
 LightHotkey
 ConvenientThiefTools
@@ -444,6 +469,7 @@ NoWitnessNoBounty
 ShieldUnequipper
 ExpansionsIntegrated
 SigournsMiscModsandPatches/00 Expansions Integrated Patch
+CybvepsJesterStashofTweaksandPatches/ExpansionsIntegratedFewerExpansionCreatures
 NoPopUpChargen
 RacesRESPECtedARaceSkillandAttributeRebalanceMod
 MOMWPatches/48 Races RESPECted OpenMW Lua Addon
@@ -451,6 +477,7 @@ BirthsignsRESPECtedABirthsignRebalanceMod
 BewaretheSixthHouseSixthHouseOverhaul/Modular
 TribunalRebalance
 BloodmoonRebalance/Bloodmoon Rebalance
+VariousModsandPatches/creatures_restored/01 Bloodmoon Rebalance Patch
 StatsWindowExtenderOpenMW
 MagicWindowExtenderOpenMW
 SpellTraderOpenMW
@@ -478,6 +505,7 @@ SmartAmmoforOpenMWLua
 DynamicTimescaleforOpenMW/DynamicTimescale
 AlvazirsVariousPatches
 DaisysLuaMultimark
+ImprovedInnsExpanded/01 TR Addon
 ImprovedInnsExpanded/02 SHotN Addon
 ImprovedInnsExpanded/03 PC Addon
 ImprovedInnsExpanded/05 BCOM Version
@@ -529,7 +557,7 @@ SameLowPriceFix
 MAOSpellSounds
 MOMWPatches/65 MAOSpellSoundsxBirthsignsRESPECted SoundFix
 OpenMWImpactEffects
-VariousModsandPatches/openmwimpacteffectspatch
+VariousModsandPatches/openmw_impact_effects_patch
 CharacterSoundOverhaul
 CharacterSoundOverhaul/Higher Bitrate Sounds
 openmwfootsteps
@@ -676,7 +704,8 @@ MOMWPatches/15 Perfectly Proficient Parasol Particles Performance Patch/00 Proje
 NoShieldSparkle
 SubtleMagicGlow/fade
 DiverseBloodOpenMWLua
-SolthasBlightWeatherPack/Solthas Blight Weather Pack
+ExpandingBlightOpenMW
+ExpandingBlightOpenMW/deadly-blight-openmw-lua
 DistantFixesLuaEdition
 LushSynthesis
 LushSynthesis/LUSH_UNDERWATER
@@ -713,7 +742,7 @@ MonosMinorModdities/TomboftheSnowPrincePAandGitDPatch/00 Core
 SolstheimTomboftheSnowPrince/001 Core - Interiors With Glow in the Dahrk
 Nordsshutyourwindows/00 Core
 Nordsshutyourwindows/03 Vanilla style sunrays
-VariousModsandPatches/nordsshutyourwindowspatch
+VariousModsandPatches/nords_shut_your_windows_patch
 MagicallightsforTelvanni/OAAB - Magical Lights/00 Core
 MagicallightsforTelvanni/OAAB - Magical Lights/01 BCoM Version
 MagicallightsforTelvanni/OAAB - Magical Lights/02 Telvanni Council House Pathway
@@ -736,6 +765,7 @@ MOMWPatches/17 Uvirith's Legacy+Daedric Shrine Overhaul Molag Bal Patch
 MOMWPatches/18 Uvirith's Legacy+Daedric Shrine Overhaul Sheogorath Patch
 MOMWPatches/19 Uvirith's Legacy+OAAB Tel Mora Patch
 MOMWPatches/21 Imperial Factions Patched
+MOMWPatches/02 Tamriel_Data Most Races Unlocked
 AnNwahsGuideToModernCultureAndMythology
 ActionCameraSwap
 OpenMWConsumingAnimated
@@ -743,6 +773,9 @@ MOMWLuaSettings/00 Core
 PerfectPlacement
 BoundBalance
 GoHome
+OpenMWLeaveTheLightsOff/LeaveTheLightsOff
+VariousModsandPatches/no_fires_in_bad_weather_updated
+HeldLightBoost/Held Light Boost
 BetterMerchantsSkillsOpenMW/00 Core
 FriendlyAutosave
 Nineholes/00 Core
@@ -759,6 +792,7 @@ MOMWPostProcessingPack/01 XE-Shaders
 MOMWPostProcessingPack/02 OMWFX-Shaders
 MOMWPostProcessingPack/03 ZesterersVolumetricClouds
 MOMWPostProcessingPack/04 WareyaOpenMWShaders
+HUDWeaponChargeForOpenMW
 ChocolateUI
 OpenMWAlchemyRedone/TPA_Alchemy_Redone
 SaneCustomPotionsOpenMW
@@ -769,6 +803,7 @@ ProjectCyrodiilSSQNPatch/00 Core
 OpenMWSkyrimStyleQuestNotifications
 SkyrimStyleQuestNotificationsLegendaryEdition/Data Files
 SkyrimStyleQuestNotificationsGreatPatchHub
+MOMWPatches/07 Skyrim Style Quest Notifications Legendary Edition Fix
 ScalableDwemerPuzzleBoxRandomizer
 HarvestLights
 OpenMWHUDMarkersDetectspells/HUDMarkers

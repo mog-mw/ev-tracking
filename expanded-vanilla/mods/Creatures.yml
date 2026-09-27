@@ -1,12 +1,16 @@
 category: Creatures
 
 mods:
-  - name: FMI - Unique Lore Friendly Cave Rats
-    url: https://www.nexusmods.com/morrowind/mods/47193
+  - name: Repopulated Creatures
+    url: https://www.nexusmods.com/morrowind/mods/55628
     download_info:
-      - file_name: Unique Cave Rats 2.0 HD
+      - file_name: Repopulated Creatures
+    data_paths:
+      - 00 Repopulated Creatures Core
+      - 02 Vvardenfell and Mainland Dialogue Edits
     plugins:
-      - Unique_CaveRats.ESP
+      - RepopulatedCreatures.ESP
+      - RepopulatedCreatures_DialogueEdits.ESP
 
   - name: Natural Wildlife
     url: https://www.nexusmods.com/morrowind/mods/59552
@@ -17,20 +21,12 @@ mods:
     plugins:
       - Natural Wildlife.omwscripts
 
-  - name: Vanilla friendly creatures and undeads expansion
-    url: https://www.nexusmods.com/morrowind/mods/48818
+  - name: FMI - Unique Lore Friendly Cave Rats
+    url: https://www.nexusmods.com/morrowind/mods/47193
     download_info:
-      - file_name: Creatures_RP
-        actions:
-          - action: clean
-            path: 00 Core/Creatures_RP_Purist.ESP
-            arguments: [delete, --backup-dir, tes3cmdbck, --hide-backups, --type, cell, --match, Solstheim]
-    data_paths:
-      - 00 Core
-      - 03 Summons have 0 soul
+      - file_name: Unique Cave Rats 2.0 HD
     plugins:
-      - Creatures_RP_Purist.ESP
-      - Creatures_RP_Soulless summons.ESP
+      - Unique_CaveRats.ESP
 
   - name: Riekling Fix and Expansion
     url: https://www.nexusmods.com/morrowind/mods/50036

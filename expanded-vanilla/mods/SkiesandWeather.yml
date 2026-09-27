@@ -47,14 +47,3 @@ mods:
       - file_name: Meteors
     plugins:
       - Meteor.esp
-
-  - name: Solthas Blight Weather Pack
-    url: https://www.nexusmods.com/morrowind/mods/52354
-    download_info:
-      - file_name: Solthas Blight Weather Pack
-    data_paths:
-      - Solthas Blight Weather Pack
-    plugins:
-      - solBlightByDay.esp
-      - solDeadlyBlight.esp
-      - solWeatherRebalance.esp

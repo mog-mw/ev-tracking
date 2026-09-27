@@ -85,7 +85,7 @@ mods:
     download_info:
       - file_name: PR Real Disposition
     plugins:
-      - PR Real Disposition Base.esp
+      - PR Real Disposition Light.esp
 
   - name: Fatigue and Speed and Carryweight Rebalance (OpenMW)
     url: https://www.nexusmods.com/morrowind/mods/52981
@@ -108,6 +108,18 @@ mods:
     plugins:
       - Better Blight.ESP
 
+  - name: Expanding Blight (OpenMW)
+    url: https://www.nexusmods.com/morrowind/mods/60258
+    download_info:
+      - file_name: Expanding Blight
+      - file_name: Deadly Blight Lua Edition
+    data_paths:
+      - ''
+      - deadly-blight-openmw-lua
+    plugins:
+      - ExpandingBlight.omwaddon
+      - deadly-blight-openmw-lua.omwscripts
+
   - name: Daedra Use Bound Equipment for OpenMW
     url: https://www.nexusmods.com/morrowind/mods/57698
     download_info:
@@ -122,6 +134,13 @@ mods:
     plugins:
       - bound-balance.omwaddon
       - bound-balance.omwscripts
+
+  - name: Soulless Summons
+    url: https://www.nexusmods.com/morrowind/mods/57706
+    download_info:
+      - file_name: Soulless Summons
+    plugins:
+      - Soulless Summons.ESP
 
   - name: Better Vampires - Vampire Overhaul for OpenMW
     url: https://www.nexusmods.com/morrowind/mods/55912
@@ -162,6 +181,7 @@ mods:
       - 02 Addons
     plugins:
       - betterpersuasionTRPT.esp
+      - SHOTN_Patch.omwaddon
       - AFFresh_BBTaP_Patch.omwaddon
       - BBTaP GMST Addon.omwaddon
 

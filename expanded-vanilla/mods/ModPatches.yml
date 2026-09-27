@@ -49,6 +49,7 @@ mods:
       - 27 Little Landscapes Nix Hound Hunting Grounds+Quests for Clans and Vampire Legends Patch
       - 78 Little Landscape Foyada of Sharp Teeth Rock Fix
       - 88 Samarys Ancestral Tomb Corpse Fix
+      - 03 KTA Redux + Valley of the Wind Overhaul Fix/02 Legacy
       - 31 Flies Patched
       - 01 OAAB Grazelands+Mines and Caverns Patch
       - 08 Trackless Grazeland For OpenMW
@@ -101,6 +102,8 @@ mods:
       - 18 Uvirith's Legacy+Daedric Shrine Overhaul Sheogorath Patch
       - 19 Uvirith's Legacy+OAAB Tel Mora Patch
       - 21 Imperial Factions Patched
+      - 02 Tamriel_Data Most Races Unlocked
+      - 07 Skyrim Style Quest Notifications Legendary Edition Fix
     plugins:
       - Imperial Legion Expansion.esp
       - EbonheartUnderworksMOMWPatch.esp
@@ -159,6 +162,7 @@ mods:
       - MC_MOMW_Patch.esp
       - DSO Ashalmimilkala Water Height Fix.esp
       - MOMW Sadrith Mora Pathgrid Reset.esp
+      - TD_Most_Races_Unlocked.esp
     groundcover:
       - REM_AC.ESP
       - Rem_BC.esp
@@ -203,16 +207,6 @@ mods:
       - UpscaledJournalandBookmarkBGReplacement
       - UpscaledJournalandBookmarkBGReplacement/01 2x Resolution Textures
 
-  - name: Publicola's Misc Mod Emporium
-    url: https://www.nexusmods.com/morrowind/mods/53235
-    download_info:
-      - file_name: Know Thy Ancestors - Serano Tomb Fix (Main)
-        extract_to: Know Thy Ancestors - Serano Tomb Fix (Main)
-    data_paths:
-      - Know Thy Ancestors - Serano Tomb Fix (Main)
-    plugins:
-      - Know Thy Ancestors.esp
-
   - name: Animated Morrowind and Weapon Sheathing patch for OpenMW
     url: https://www.nexusmods.com/morrowind/mods/53479
     download_info:
@@ -233,19 +227,83 @@ mods:
     url: https://www.nexusmods.com/morrowind/mods/56176
     download_info:
       - file_name: openmw_impact_effects_patch
-        extract_to: openmwimpacteffectspatch
+        extract_to: openmw_impact_effects_patch
       - file_name: OAAB_Foyada_Mamaea_Lava_Patch
-        extract_to: OAABFoyadaMamaeaILavaGoodPatch
+        extract_to: OAAB_Foyada_Mamaea_Lava_Patch
       - file_name: DynamicAmbientVisualEffectsMagicalLightsPatch
         extract_to: DynamicAmbientVisualEffectsMagicalLightsPatch
       - file_name: nords_shut_your_windows_patch
-        extract_to: nordsshutyourwindowspatch
+        extract_to: nords_shut_your_windows_patch
+      - file_name: repopulated_creatures_more_daedra
+        extract_to: repopulated_creatures_more_daedra
+      - file_name: creatures_restored
+        extract_to: creatures_restored
+      - file_name: daedra_use_bound_equipment_vfx_patch
+        extract_to: daedra_use_bound_equipment_vfx_patch
+      - file_name: mdmd_td_creatures_addon
+        extract_to: mdmd_td_creatures_addon
+      - file_name: plaguebearers
+        extract_to: plaguebearers
+      - file_name: Skeletons
+        extract_to: Skeletons
+      - file_name: herders
+        extract_to: herders
+      - file_name: diverse_draugrs
+        extract_to: diverse_draugrs
+      - file_name: no_fires_in_bad_weather_updated
+        extract_to: no_fires_in_bad_weather_updated
+      - file_name: RepopulatedVassirDidanatMineLightFixed
+        extract_to: RepopulatedVassirDidanatMineLightFixed
     data_paths:
-      - OAABFoyadaMamaeaILavaGoodPatch
-      - OAABFoyadaMamaeaILavaGoodPatch/00 I Lava Good
-      - openmwimpacteffectspatch
-      - nordsshutyourwindowspatch
+      - plaguebearers
+      - RepopulatedVassirDidanatMineLightFixed
+      - RepopulatedVassirDidanatMineLightFixed/01 Vanilla Color
+      - OAAB_Foyada_Mamaea_Lava_Patch
+      - OAAB_Foyada_Mamaea_Lava_Patch/00 I Lava Good
+      - daedra_use_bound_equipment_vfx_patch
+      - repopulated_creatures_more_daedra
+      - creatures_restored
+      - creatures_restored/00 Core
+      - creatures_restored/10 TD Addon
+      - Skeletons
+      - Skeletons/00 Core
+      - Skeletons/01 OAAB Skeletons
+      - Skeletons/02 TD Patch
+      - Skeletons/03 OAAB Tombs and Towers Patch
+      - herders
+      - diverse_draugrs
+      - diverse_draugrs/00 Core
+      - diverse_draugrs/01 No Eyes Glow After Death
+      - diverse_draugrs/02 Skeletal Draugrs
+      - diverse_draugrs/04 Dragon Priests
+      - diverse_draugrs/06 Draugr Scourges
+      - diverse_draugrs/10 Bloodmoon Rebalance Patch
+      - diverse_draugrs/11 Tamriel Data Patch
+      - mdmd_td_creatures_addon
+      - creatures_restored/01 Bloodmoon Rebalance Patch
+      - openmw_impact_effects_patch
+      - nords_shut_your_windows_patch
       - DynamicAmbientVisualEffectsMagicalLightsPatch
+      - no_fires_in_bad_weather_updated
+    plugins:
+      - Creatures Restored.omwaddon
+      - Creatures Restored - TD Addon.omwaddon
+      - Creatures Restored - Bloodmoon Rebalance Patch.omwaddon
+      - RepopulatedVassirDidanatMine.ESP
+      - MDMD - TD Creatures Add-On.omwaddon
+      - RepopulatedCreatures - More Daedra.omwaddon
+      - Skeletons.omwaddon
+      - Skeletons - TD Patch.omwaddon
+      - Skeletons - OAAB - Tombs and Towers Patch.omwaddon
+      - Herders.omwaddon
+      - Diverse Draugrs.omwaddon
+      - Diverse Draugrs - Skeletal Draugrs.omwaddon
+      - Diverse Draugrs - Dragon Priests.omwaddon
+      - Diverse Draugrs - Draugr Scourges.omwaddon
+      - Diverse Draugrs - Bloodmoon Rebalance Patch.omwaddon
+      - Diverse Draugrs - TD Patch.omwaddon
+      - No Fires in Bad Weather.omwscripts
+      - plaguebearers.omwscripts
 
   - name: Null's Minor Patches
     url: https://www.nexusmods.com/morrowind/mods/55897
@@ -302,14 +360,22 @@ mods:
         extract_to: BetterBloodmoonDirections
       - file_name: Soulless Summons for Tamriel Data
         extract_to: SoullessSummonsforTamrielData
+      - file_name: Expansions Integrated - Fewer Expansion Creatures
+        extract_to: ExpansionsIntegratedFewerExpansionCreatures
+      - file_name: Fewer Respawning NPCs on Solstheim
+        extract_to: FewerRespawningNPCsonSolstheim
     data_paths:
+      - FewerRespawningNPCsonSolstheim
       - BetterBloodmoonDirections
       - SoullessSummonsDialogueFix
       - SoullessSummonsforTamrielData
+      - ExpansionsIntegratedFewerExpansionCreatures
     plugins:
       - BetterBloodmoonDirections.omwaddon
+      - Expansions Integrated Fewer Fewer BM Creatures.omwaddon
       - cybnosoulssummondialoguefix.omwaddon
       - CybSoullessSummonsTD.omwaddon
+      - CybBloodmoonNPCs.omwaddon
 
   - name: Wilhelm of the Aedra Topic Fix (ESP)
     url: https://www.nexusmods.com/morrowind/mods/59593
@@ -341,3 +407,12 @@ mods:
     url: https://www.nexusmods.com/morrowind/mods/59581
     download_info:
       - file_name: N'Garde Parry Sounds
+
+  - name: Anthony's Minor Mods and Patches
+    url: https://www.nexusmods.com/morrowind/mods/57811
+    download_info:
+      - file_name: Memento Mori Maar Gan Town of Pilgrimage Patch
+    data_paths:
+      - MementoMoriTownofPilgrimage/01 Normal
+    plugins:
+      - Memento_Mori_Maar_Gan_Patch.esp

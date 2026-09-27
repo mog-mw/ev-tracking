@@ -74,3 +74,10 @@ mods:
       - UIToolkit
     plugins:
       - UIToolkit.omwscripts
+
+  - name: Variation Framework - OpenMW
+    url: https://www.nexusmods.com/morrowind/mods/59795
+    download_info:
+      - file_name: Variation Framework
+    plugins:
+      - variationFramework.omwscripts

@@ -235,6 +235,20 @@ mods:
       - The Wake of Hanin.ESP
       - The Wake of Hanin - TR Goblet Fix.ESP
 
+  - name: Forge of Hilbongard Reignited
+    url: https://www.nexusmods.com/morrowind/mods/57968
+    download_info:
+      - file_name: Forge of Hilbongard Reignited
+    plugins:
+      - Forge of Hilbongard Reignited.ESP
+
+  - name: Dubdilla Remade
+    url: https://www.nexusmods.com/morrowind/mods/59953
+    download_info:
+      - file_name: Dubdilla Remade
+    plugins:
+      - Dubdilla Remade.ESP
+
   - name: Mamaea Awakened
     url: https://www.nexusmods.com/morrowind/mods/46096
     download_info:
@@ -308,7 +322,7 @@ mods:
   - name: The Stone Halls of Solstheim - Reforged
     url: https://www.nexusmods.com/morrowind/mods/49841
     download_info:
-      - file_name: SHS   Reforged
+      - file_name: Stone Halls Of Solstheim
     data_paths:
       - 00 Core
       - 02 TotSP Solstheim (Choose ONLY One)

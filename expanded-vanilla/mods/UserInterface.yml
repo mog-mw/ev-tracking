@@ -39,6 +39,13 @@ mods:
     plugins:
       - questman.omwscripts
 
+  - name: HUD Weapon Charge (For OpenMW)
+    url: https://www.nexusmods.com/morrowind/mods/57856
+    download_info:
+      - file_name: HUD weapon charge (For OpenMW)
+    plugins:
+      - HUDweaponCharge.omwscripts
+
   - name: Chocolate UI
     url: https://www.nexusmods.com/morrowind/mods/43076
     download_info:

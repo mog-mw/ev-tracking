@@ -13,6 +13,15 @@ mods:
     plugins:
       - OAAB - The Ashen Divide.ESP
 
+  - name: Valley of the Wind Overhaul
+    url: https://www.nexusmods.com/morrowind/mods/46691
+    download_info:
+      - file_name: Valley of the Wind Overhaul
+    data_paths:
+      - Valley of the Wind Overhaul
+    plugins:
+      - Valley of the Wind Overhaul.esp
+
   - name: Faces of Vel - Ash Mire
     url: https://www.nexusmods.com/morrowind/mods/44200
     download_info:

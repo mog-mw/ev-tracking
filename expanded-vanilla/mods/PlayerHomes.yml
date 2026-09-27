@@ -40,9 +40,6 @@ mods:
       - Data Files/Addons
     plugins:
       - UL_3.5_RoHT_1.52_Add-on.esp
-    settings: |
-      [Shaders]
-      apply lighting to environment maps = true
 
   - name: Building Up Uvirith's Legacy
     url: https://modding-openmw.com/files/Building_Up_Uviriths_Legacy.7z

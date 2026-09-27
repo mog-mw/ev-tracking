@@ -43,6 +43,7 @@ distant seafloor TOTSP 2.3.0 edges fix.esp
 BetterBloodmoonDirections.omwaddon
 Greetings for No Lore.esp
 Expansions Integrated - Fewer BM Creatures.esp
+Expansions Integrated Fewer Fewer BM Creatures.omwaddon
 Diverse Khajiit.ESP
 MDMD - More Deadly Morrowind Denizens.ESP
 Expansions Integrated MDMD Patch.ESP
@@ -53,11 +54,13 @@ Unique_Tavern_Signs_for_Tamriel_Rebuilt_v2.ESP
 Imperial Legion Expansion.esp
 Morrowind Anti-Cheese.ESP
 Better Blight.ESP
-solBlightByDay.esp
-solDeadlyBlight.esp
-solWeatherRebalance.esp
+ExpandingBlight.omwaddon
+deadly-blight-openmw-lua.omwscripts
+Creatures Restored.omwaddon
+Creatures Restored - TD Addon.omwaddon
 Tribunal Rebalance.ESP
 Bloodmoon Rebalance.ESP
+Creatures Restored - Bloodmoon Rebalance Patch.omwaddon
 OAAB - The Ashen Divide.ESP
 OAAB_Grazelands.ESP
 Ebonheart_Underworks.esp
@@ -76,6 +79,7 @@ Aspect of Azura.ESP
 OAAB - Foyada Mamaea.ESP
 Manor Banners.ESP
 mistify.ESP
+Valley of the Wind Overhaul.esp
 The Dream is the Door.ESP
 diverse-blood-openmw-lua.omwscripts
 Silt Strider Animation Restored.ESP
@@ -90,12 +94,12 @@ correctUV Ore Replacer_fixed.esp
 Uvirith's Legacy_3.53.ESP
 mdmd - uvirith legacy cooperation.ESP
 The Archmagister's Abode.ESP
-Know Thy Ancestors.esp
 LuaMultiMark.omwscripts
 Finished Morrowind - CORE PATCH - Part 4 - More Audio Dialogue for Service NPCs.ESP
 DD_Caldera_Expansion.esp
 DD_Caldera_Expansion_OpenMWFix.esp
 betterpersuasionTRPT.esp
+SHOTN_Patch.omwaddon
 AFFresh_BBTaP_Patch.omwaddon
 BBTaP GMST Addon.omwaddon
 wandering-creature-merchants-lua-edition.omwscripts
@@ -105,7 +109,7 @@ SPT Limits.esp
 SPT Limits.omwscripts
 bms.omwscripts
 FtRP_Services.ESP
-PR Real Disposition Base.esp
+PR Real Disposition Light.esp
 BCOM_Animated_GhostGate_Statues.ESP
 BCOM_Tribal_Erabenimsun.ESP
 BCOM_PfP_patch.ESP
@@ -115,6 +119,7 @@ FMI_#NotAllDunmer.ESP
 FMI_ServiceRefusal_Contraband.ESP
 FMI_Legion_Dialogue.ESP
 Dubdilla Location Fix.ESP
+Dubdilla Remade.ESP
 AFFresh+SamarysAncestralTombExpanded.esp
 AFFreshLibraryOfVivecEnhanced.esp
 AFFargoth.ESP
@@ -266,6 +271,7 @@ MaiqMainland.esp
 Sload and Slavers.ESP
 Sloadic Transport.ESP
 MDMD - Creatures Add-On.ESP
+MDMD - TD Creatures Add-On.omwaddon
 Meteor.esp
 Frozen in Time.esp
 Clean_sm_golden_mask.ESP
@@ -283,6 +289,7 @@ RR_Telvanni_Lighthouse_Tel Vos_Eng.ESP
 ghastly gg.esp
 Holamayan Island.esp
 Static Switching System.esp
+variationFramework.omwscripts
 The Grove of Ben'Abi Enhanced.ESP
 RacesRESPECted.esp
 racesrespected.omwscripts
@@ -326,11 +333,23 @@ Telvanni Magister Robes Anticheese.esp
 RepopulatedMorrowind_MageRobes.ESP
 RepopulatedMorrowind_ImmersiveMournhold.ESP
 RepopulatedMorrowind_OAAB_Data.ESP
-Creatures_RP_Purist.ESP
-Creatures_RP_Soulless summons.ESP
+Soulless Summons.ESP
 cybnosoulssummondialoguefix.omwaddon
 CybSoullessSummonsTD.omwaddon
 Daedra Use Bound Equipment for OpenMW.omwscripts
+RepopulatedCreatures.ESP
+RepopulatedCreatures_DialogueEdits.ESP
+RepopulatedCreatures - More Daedra.omwaddon
+Skeletons.omwaddon
+Skeletons - TD Patch.omwaddon
+Skeletons - OAAB - Tombs and Towers Patch.omwaddon
+Herders.omwaddon
+Diverse Draugrs.omwaddon
+Diverse Draugrs - Skeletal Draugrs.omwaddon
+Diverse Draugrs - Dragon Priests.omwaddon
+Diverse Draugrs - Draugr Scourges.omwaddon
+Diverse Draugrs - Bloodmoon Rebalance Patch.omwaddon
+Diverse Draugrs - TD Patch.omwaddon
 Clean_Vennin's Hlaalu Tomb.ESP
 Clean_Vennin's Shal Overhaul.ESP
 Shal Overhaul Skeleton Fix.esp
@@ -342,6 +361,7 @@ Province_Cyrodiil_BCOM_patch.ESP
 BCOM_Cluttered_Canal.ESP
 Superb Shulk Eggmine.ESP
 Dungeon Details --  Abaesen-Pulu Egg Mine.esp
+Forge of Hilbongard Reignited.ESP
 The Vestiges of Tukushapal.ESP
 Stav_Stormkiss Reforged.esp
 Dungeon Details -- Assemanu.esp
@@ -375,6 +395,7 @@ Memento Mori.ESP
 Memento Mori - OpenMW Patch.ESP
 RP_Maar_Gan.ESP
 RP_Maar_Gan_Ashlander_Addon.ESP
+Memento_Mori_Maar_Gan_Patch.esp
 BCOM_Decorated_Cantons.ESP
 BCOM_Vivec_Arena_planters.ESP
 BCOM_Vivec_Planters.ESP
@@ -405,6 +426,7 @@ Djangos Dialogue - Patch for Purists.esp
 Improved Inns Expanded.esp
 Improved Inns Expanded - PC Addon.esp
 Improved Inns Expanded - SHotN Addon.esp
+Improved Inns Expanded - TR Addon.esp
 Natural Wildlife.omwscripts
 Nordic Dagon Fel.ESP
 Dagon Fel Mill.ESP
@@ -454,6 +476,7 @@ Boots for Beasts OpenMW Lua TD.omwaddon
 Hist Helms OpenMW Lua.omwaddon
 Yet Another Guard Diversity - Full Cephalopod.ESP
 IO - Solstheim.ESP
+CybBloodmoonNPCs.omwaddon
 Cutting Room Floor - Herders.esp
 Cutting Room Floor - Ald Redaynia.esp
 Cutting Room Floor - Ald-ruhn Underground.esp
@@ -538,6 +561,9 @@ bound-balance.omwaddon
 bound-balance.omwscripts
 go-home.omwscripts
 go-home-locking-doors.omwscripts
+LeaveTheLightsOff.omwscripts
+No Fires in Bad Weather.omwscripts
+Held Light Boost.omwscripts
 Nine-holes - Core.esp
 Nine-holes - Ald-ruhn, The Rat In The Pot.esp
 Nine-holes - Ebonheart, Six Fishes.esp
@@ -550,6 +576,7 @@ Nine-holes - Vivec, Elven Nations Cornerclub.esp
 MOMW Sadrith Mora Pathgrid Reset.esp
 bcomxpfp.omwaddon
 Tamriel_Data.omwscripts
+plaguebearers.omwscripts
 tamrielrebuilt.omwscripts
 fresh-loot.omwscripts
 protected-beasts.omwscripts
@@ -576,11 +603,13 @@ setbonus_rebalance.omwscripts
 friendly-autosave.omwscripts
 LightHotkey.omwscripts
 convenient-thief-tools.omwscripts
+HUDweaponCharge.omwscripts
 TPA_Alchemy_Redone.omwscripts
 sanecustompotions.omwscripts
 questman.omwscripts
 S3maphore.esp
 Consuming Animated.omwscripts
+TD_Most_Races_Unlocked.esp
 momw-lua-settings-EV.omwscripts
 delta-merged.omwaddon
 deleted_groundcover.omwaddon

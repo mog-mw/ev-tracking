@@ -28,3 +28,21 @@ mods:
       - file_name: Harvest Lights
     plugins:
       - harvest-lights.omwscripts
+
+  - name: (OpenMW) Leave The Lights Off
+    url: https://www.nexusmods.com/morrowind/mods/57510
+    download_info:
+      - file_name: LeaveTheLightsOff
+        nexus_file_id: 1000066569
+    data_paths:
+      - LeaveTheLightsOff
+    plugins:
+      - LeaveTheLightsOff.omwscripts
+      - Held Light Boost.omwscripts
+
+  - name: Held Light Boost
+    url: https://www.nexusmods.com/morrowind/mods/59576
+    download_info:
+      - file_name: Held Light Boost 1.1.0
+    data_paths:
+      - Held Light Boost

@@ -66,7 +66,7 @@ mods:
   - name: Greymarch Dawn - Whispers of Jyggalag
     url: https://www.nexusmods.com/morrowind/mods/53679
     download_info:
-      - file_name: Grey March Dawn
+      - file_name: Greymarch Dawn - Whispers of Jyggalag
     data_paths:
       - 00 Core
       - 01 HD Textures

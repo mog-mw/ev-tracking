@@ -90,12 +90,3 @@ mods:
       - Data Files
     plugins:
       - Tribunal_Facelift.ESP
-
-  - name: Repopulated Vassir-Didanat Mine
-    url: https://www.nexusmods.com/morrowind/mods/54129
-    download_info:
-      - file_name: Repopulated Vassir-Didanat Mine
-    data_paths:
-      - RepopulatedVassirDidanatMine
-    plugins:
-      - RepopulatedVassirDidanatMine.ESP
