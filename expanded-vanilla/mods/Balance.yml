@@ -176,14 +176,15 @@ mods:
     download_info:
       - file_name: BBTaP (TR PT version)
     data_paths:
-      - 00 Core
-      - 01 Patches
-      - 02 Addons
+      - TR PT/00 Core
+      - TR PT/01 Patches
+      - TR PT/02 Addons
     plugins:
       - betterpersuasionTRPT.esp
-      - SHOTN_Patch.omwaddon
+      - SHOTN_BBTaP_Patch.omwaddon
       - AFFresh_BBTaP_Patch.omwaddon
       - BBTaP GMST Addon.omwaddon
+      - BBTaP.omwscripts
 
   - name: Sane Custom Potions (OpenMW)
     url: https://www.nexusmods.com/morrowind/mods/59640

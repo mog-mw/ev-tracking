@@ -200,17 +200,7 @@ mods:
       - 00 Core
     plugins:
       - fresh-loot.omwscripts
-
-  - name: Set Bonus
-    url: https://www.nexusmods.com/morrowind/mods/52911
-    download_info:
-      - file_name: OpenMW Set Bonus
-    data_paths:
-      - OpenMW_SetBonus
-      - OpenMW_SetBonusRebalance
-    plugins:
-      - setbonus.omwscripts
-      - setbonus_rebalance.omwscripts
+      - fresh-loot-restoration.omwaddon
 
   - name: Smart Ammo for OpenMW-Lua
     url: https://modding-openmw.gitlab.io/smart-ammo/

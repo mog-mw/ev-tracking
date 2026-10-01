@@ -25,7 +25,7 @@ mods:
   - name: Iron Fist for OpenMW
     url: https://www.nexusmods.com/morrowind/mods/57619
     download_info:
-      - file_name: Iron Fist for OpenMW
+      - file_name: Iron Fist For OpenMW (Rebalanced)
     data_paths:
       - Iron Fist for OpenMW
     plugins:
@@ -58,7 +58,7 @@ mods:
   - name: Fair Care (OpenMW)
     url: https://www.nexusmods.com/morrowind/mods/55293
     download_info:
-      - file_name: FairCare
+      - file_name: Fair Care
     data_paths:
       - 00 Core
     plugins:

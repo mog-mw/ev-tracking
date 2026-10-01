@@ -78,6 +78,6 @@ mods:
   - name: Indoril Mansion
     url: https://www.nexusmods.com/morrowind/mods/53022
     download_info:
-      - file_name: Indoril Mansion 1.6
+      - file_name: Indoril Mansion
     plugins:
       - Indoril Mansion.ESP

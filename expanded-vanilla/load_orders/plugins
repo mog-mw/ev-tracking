@@ -99,9 +99,10 @@ Finished Morrowind - CORE PATCH - Part 4 - More Audio Dialogue for Service NPCs.
 DD_Caldera_Expansion.esp
 DD_Caldera_Expansion_OpenMWFix.esp
 betterpersuasionTRPT.esp
-SHOTN_Patch.omwaddon
+SHOTN_BBTaP_Patch.omwaddon
 AFFresh_BBTaP_Patch.omwaddon
 BBTaP GMST Addon.omwaddon
+BBTaP.omwscripts
 wandering-creature-merchants-lua-edition.omwscripts
 wandering-creature-merchants-lua-edition.omwaddon
 Pickpocket Rebalance.omwaddon
@@ -579,6 +580,7 @@ Tamriel_Data.omwscripts
 plaguebearers.omwscripts
 tamrielrebuilt.omwscripts
 fresh-loot.omwscripts
+fresh-loot-restoration.omwaddon
 protected-beasts.omwscripts
 MRF.omwscripts
 SSQN.omwscripts
@@ -598,8 +600,6 @@ SneakIsGoodNow.omwaddon
 SneakIsGoodNow.omwscripts
 SneakFatigueDrain.omwscripts
 ReadingOverhaul.omwscripts
-setbonus.omwscripts
-setbonus_rebalance.omwscripts
 friendly-autosave.omwscripts
 LightHotkey.omwscripts
 convenient-thief-tools.omwscripts

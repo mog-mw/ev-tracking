@@ -236,9 +236,9 @@ OAABHawiaEggMine/OAAB - Hawia Egg Mine
 WhatKwamasForageAnEggmineMod/What Kwamas Forage
 AzurasShrineOverhaul/00 - Core files
 AzurasShrineOverhaul/03 - Aspect of Azura Patch
-BetterBalancedTauntandPersuasionBBTaP/00 Core
-BetterBalancedTauntandPersuasionBBTaP/01 Patches
-BetterBalancedTauntandPersuasionBBTaP/02 Addons
+BetterBalancedTauntandPersuasionBBTaP/TR PT/00 Core
+BetterBalancedTauntandPersuasionBBTaP/TR PT/01 Patches
+BetterBalancedTauntandPersuasionBBTaP/TR PT/02 Addons
 OfEggsandDwarvesGnisisEggmineandBethamezOverhaul/00 Core
 OfEggsandDwarvesGnisisEggmineandBethamezOverhaul/01 BCOM Patch
 BallakuTheLonelyTowers
@@ -497,8 +497,6 @@ ArrowStickOpenMW
 SneakisGoodNowOpenMW
 SneakFatigueDrainOpenMW
 ReadingOverhaulOpenMW
-SetBonus/OpenMW_SetBonus
-SetBonus/OpenMW_SetBonusRebalance
 FatigueandSpeedandCarryweightRebalanceOpenMW
 ClearYourName
 SmartAmmoforOpenMWLua
