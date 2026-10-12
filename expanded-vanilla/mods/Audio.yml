@@ -22,6 +22,9 @@ mods:
       - file_name: openmw-footsteps
     plugins:
       - footsteps.omwscripts
+    settings: |
+      [Sound]
+      footsteps volume = 0
 
   - name: Store Entrance Chimes
     url: https://www.nexusmods.com/morrowind/mods/44586

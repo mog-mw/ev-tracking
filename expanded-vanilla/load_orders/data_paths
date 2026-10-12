@@ -51,6 +51,7 @@ DistantEbonTowerforOpenMW
 VariousModsandPatches/plaguebearers
 SignpostFastTravel/00 Core
 OAABData/00 Core
+OAABData/01 OpenMW Functions
 MeshFixv12
 CorrectMeshes/Data Files
 MorrowindOptimizationPatch/00 Core
@@ -108,7 +109,7 @@ OAABShipwrecks/02 Patch - TR Patch
 SimplyWalkingRemastered/Simply Walking (WS Edition)
 Justalittlebitbetteranimationsforthemagebuildfirstperson
 MaxYarisScriptServices
-ReAnimationv3Completefirstpersonanimationpack
+ReAnimationv3Completefirstpersonanimationpack/00 Core
 3rdPersonaltAttacks
 OpenMWDynamicAnimations/3rdPersonPatch
 CalderaPrioryandtheDepthsofBloodandBone/00 Core
@@ -549,6 +550,7 @@ WeaponSheathingAdditions
 MorrowindOptimizationPatch/02 Weapon Sheathing Patch
 SWJsWeaponSheathingPatches/Oriental Mesh Improvements
 ImprovedThrownWeaponProjectiles/Data Files
+ReAnimationv3Completefirstpersonanimationpack/02 Thrown Weapon Projectiles Fix
 PikachunoTMsArtifactMeshImprovements/01 Animated Staff of Magnus
 DaedricMaul/Daedric Maul/Data Files
 SameLowPriceFix

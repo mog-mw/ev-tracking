@@ -31,10 +31,12 @@ mods:
         extract_to: HD
     data_paths:
       - 00 Core
+      - 01 OpenMW Functions
       - HD
       - 08 GitD Shacks Patch
     plugins:
       - OAAB_Data.esm
+      - OAAB_Data.omwscripts
 
   - name: Static Switching System
     url: https://www.nexusmods.com/morrowind/mods/57282

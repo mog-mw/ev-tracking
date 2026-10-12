@@ -31,9 +31,12 @@ mods:
         actions:
           - action: remove
             paths:
-              - Animations/xbase_anim.1st/xDaggerIdle.kf
-              - Animations/xbase_anim.1st/xDaggerSneakIdle.kf
-              - Animations/xbase_anim.1st/xDaggerSneakMovement.kf
+              - 00 Core/Animations/xbase_anim.1st/xDaggerIdle.kf
+              - 00 Core/Animations/xbase_anim.1st/xDaggerSneakIdle.kf
+              - 00 Core/Animations/xbase_anim.1st/xDaggerSneakMovement.kf
+    data_paths:
+      - 00 Core
+      - 02 Thrown Weapon Projectiles Fix
     plugins:
       - ReAnimation_API.omwscripts
       - ReAnimation_v3.omwscripts

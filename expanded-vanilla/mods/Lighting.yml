@@ -43,6 +43,6 @@ mods:
   - name: Held Light Boost
     url: https://www.nexusmods.com/morrowind/mods/59576
     download_info:
-      - file_name: Held Light Boost 1.1.0
+      - file_name: Held Light Boost 1.2.0
     data_paths:
       - Held Light Boost

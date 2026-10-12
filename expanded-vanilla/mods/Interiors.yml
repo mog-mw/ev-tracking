@@ -4,7 +4,7 @@ mods:
   - name: Almalexia's Chamber Overhaul
     url: https://www.nexusmods.com/morrowind/mods/52737
     download_info:
-      - file_name: Almalexia's Chamber Overhaul
+      - file_name: 'Almalexia''S Chamber Overhaul '
     data_paths:
       - 00 Core
     plugins:

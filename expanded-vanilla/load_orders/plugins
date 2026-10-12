@@ -228,7 +228,6 @@ RPNR_Library.ESP
 RepopulatedVassirDidanatMine.ESP
 Imperial Factions.ESP
 sp_shishi.ESP
-Cutting Room Floor - Extra Jobs.esp
 Cutting Room Floor - Extra Orders.esp
 Cutting Room Floor - Quests.esp
 CRFJobs_BCoM_patch.esp
@@ -377,6 +376,8 @@ randomfarvyn.esp
 randomdin.esp
 dgrandom.esp
 TelvanniSeaBeacons.ESP
+Nine-holes - Core.esp
+Nine-holes - Sadrith Mora, Dirty Muriel's Cornerclub.esp
 Beautiful cities of Morrowind.ESP
 BCoM_Eight_Plates_Quest_Addon.ESP
 RP_Ald'ruhn_Architecture_Variety.ESP
@@ -565,12 +566,10 @@ go-home-locking-doors.omwscripts
 LeaveTheLightsOff.omwscripts
 No Fires in Bad Weather.omwscripts
 Held Light Boost.omwscripts
-Nine-holes - Core.esp
 Nine-holes - Ald-ruhn, The Rat In The Pot.esp
 Nine-holes - Ebonheart, Six Fishes.esp
 Nine-holes - Moonmoth Legion Fort.esp
 Nine-holes - Pelagiad, Halfway Tavern.esp
-Nine-holes - Sadrith Mora, Dirty Muriel's Cornerclub.esp
 Nine-holes - Seyda Neen, Arrille's Tradehouse.esp
 Nine-holes - Suran, Goldyn Belaram (BCOM).esp
 Nine-holes - Vivec, Elven Nations Cornerclub.esp
@@ -579,6 +578,7 @@ bcomxpfp.omwaddon
 Tamriel_Data.omwscripts
 plaguebearers.omwscripts
 tamrielrebuilt.omwscripts
+OAAB_Data.omwscripts
 fresh-loot.omwscripts
 fresh-loot-restoration.omwaddon
 protected-beasts.omwscripts

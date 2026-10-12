@@ -15,7 +15,7 @@ mods:
   - name: Natural Wildlife
     url: https://www.nexusmods.com/morrowind/mods/59552
     download_info:
-      - file_name: Natural Wildlife 1.2.0
+      - file_name: Natural Wildlife 1.2.1
     data_paths:
       - Natural Wildlife
     plugins:
