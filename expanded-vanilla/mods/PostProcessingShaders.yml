@@ -13,7 +13,6 @@ mods:
       - 04 WareyaOpenMWShaders
     settings: |
       [Post Processing]
-      enabled = true
       chain = ssao_hq,underwater_interior_effects,underwater_effects,clouds,godrays,bloomlinear,hdr,FollowerAA
       transparent postpass = true
       [Shaders]

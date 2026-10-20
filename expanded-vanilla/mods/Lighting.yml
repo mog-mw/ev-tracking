@@ -12,6 +12,20 @@ mods:
       [Shaders]
       clamp lighting = false
 
+  - name: Improved Lights for All Shaders Patch Hub
+    url: https://www.nexusmods.com/morrowind/mods/60577
+    download_info:
+      - file_name: ILFAS Tamriel Data
+        extract_to: Tamriel Data
+      - file_name: ILFAS Dwemer Mesh Improvement
+        extract_to: Dwemer Mesh Improvement
+      - file_name: ILFAS Properly Smoothed Meshes
+        extract_to: Properly Smoothed Meshes
+    data_paths:
+      - Properly Smoothed Meshes
+      - Tamriel Data
+      - Dwemer Mesh Improvement
+
   - name: Glow in the Dahrk
     url: https://www.nexusmods.com/morrowind/mods/45886
     download_info:
@@ -38,7 +52,6 @@ mods:
       - LeaveTheLightsOff
     plugins:
       - LeaveTheLightsOff.omwscripts
-      - Held Light Boost.omwscripts
 
   - name: Held Light Boost
     url: https://www.nexusmods.com/morrowind/mods/59576
@@ -46,3 +59,5 @@ mods:
       - file_name: Held Light Boost 1.2.0
     data_paths:
       - Held Light Boost
+    plugins:
+      - Held Light Boost.omwscripts

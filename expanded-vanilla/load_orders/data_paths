@@ -749,6 +749,9 @@ MagicallightsforTelvanni/OAAB - Magical Lights/02 Telvanni Council House Pathway
 ImprovedLightsforAllShaders/00 Core
 ImprovedLightsforAllShaders/01 Smoke and Steam Emitters
 ProjectAtlas/08 ILFAS Patch
+ImprovedLightsforAllShadersPatchHub/Properly Smoothed Meshes
+ImprovedLightsforAllShadersPatchHub/Tamriel Data
+ImprovedLightsforAllShadersPatchHub/Dwemer Mesh Improvement
 OpenMWvanillacandlespatchedwithEnlightenedFlamesandILFAS
 OpenMWDynamicAmbientVisualEffects
 VariousModsandPatches/DynamicAmbientVisualEffectsMagicalLightsPatch
@@ -794,16 +797,16 @@ MOMWPostProcessingPack/03 ZesterersVolumetricClouds
 MOMWPostProcessingPack/04 WareyaOpenMWShaders
 HUDWeaponChargeForOpenMW
 ChocolateUI
-OpenMWAlchemyRedone/TPA_Alchemy_Redone
-SaneCustomPotionsOpenMW
-Enchantingiconsasyouwish/Ice/Data Files
-SmallSkyrimCrosshairOpenMWcompatible
 TheSearchfortheWhiteWave/01 OpenMW Addons
 ProjectCyrodiilSSQNPatch/00 Core
 OpenMWSkyrimStyleQuestNotifications
 SkyrimStyleQuestNotificationsLegendaryEdition/Data Files
 SkyrimStyleQuestNotificationsGreatPatchHub
 MOMWPatches/07 Skyrim Style Quest Notifications Legendary Edition Fix
+OpenMWAlchemyRedone/TPA_Alchemy_Redone
+SaneCustomPotionsOpenMW
+Enchantingiconsasyouwish/Ice/Data Files
+SmallSkyrimCrosshairOpenMWcompatible
 ScalableDwemerPuzzleBoxRandomizer
 HarvestLights
 OpenMWHUDMarkersDetectspells/HUDMarkers
