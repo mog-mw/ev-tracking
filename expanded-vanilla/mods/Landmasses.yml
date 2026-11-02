@@ -4,7 +4,7 @@ mods:
   - name: Tamriel Rebuilt
     url: https://www.nexusmods.com/morrowind/mods/42145
     download_info:
-      - file_name: Tamriel Rebuilt 26.09.27
+      - file_name: Tamriel Rebuilt 26.11.01
     data_paths:
       - 00 Core/Data Files
       - 01 Faction Integration/Data Files
@@ -22,7 +22,7 @@ mods:
     plugins:
       - Cyr_Main.ESM
 
-  - name: 'Skyrim: Home Of The Nords'
+  - name: Skyrim Home Of The Nords
     url: https://www.nexusmods.com/morrowind/mods/44921
     download_info:
       - file_name: Sky_Main
@@ -30,10 +30,6 @@ mods:
       - 00 Data Files
     plugins:
       - Sky_Main.esm
-    settings: |
-      [Groundcover]
-      enabled = true
-      stomp intensity = 2
 
   - name: Solstheim Tomb of the Snow Prince
     url: https://www.nexusmods.com/morrowind/mods/46810

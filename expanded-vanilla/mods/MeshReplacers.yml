@@ -55,3 +55,12 @@ mods:
       - 05 Beaker, Flasks - clear glass
       - 07 Barrel - no rivets
       - 08 Potted Plant - redware
+
+  - name: PikachunoTMs Artifact Mesh Improvements
+    url: https://www.nexusmods.com/morrowind/mods/45631
+    download_info:
+      - file_name: PikachunoTMs Artifact Mesh Improvements
+    data_paths:
+      - 00 Core
+      - 02 Transparent Ice Blade of the Monarch with Particle Effects
+      - 01 Animated Staff of Magnus

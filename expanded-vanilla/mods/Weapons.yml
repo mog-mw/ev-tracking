@@ -49,10 +49,3 @@ mods:
       - file_name: Improved Thrown Weapon Projectiles
     data_paths:
       - Data Files
-
-  - name: PikachunoTMs Artifact Mesh Improvements
-    url: https://www.nexusmods.com/morrowind/mods/45631
-    download_info:
-      - file_name: PikachunoTMs Artifact Mesh Improvements
-    data_paths:
-      - 01 Animated Staff of Magnus

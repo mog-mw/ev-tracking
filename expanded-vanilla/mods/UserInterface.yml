@@ -1,12 +1,14 @@
 category: UserInterface
 
 mods:
-  - name: Inventory Extender (OpenMW)
-    url: https://www.nexusmods.com/morrowind/mods/59205
+  - name: Inventory Extender Redone
+    url: https://www.nexusmods.com/morrowind/mods/60835
     download_info:
-      - file_name: Inventory Extender
+      - file_name: Inventory Extender Redone
+    data_paths:
+      - InventoryExtenderRedone
     plugins:
-      - InventoryExtender.omwscripts
+      - InventoryExtenderRedone.omwscripts
 
   - name: Magic Window Extender (OpenMW)
     url: https://www.nexusmods.com/morrowind/mods/58064

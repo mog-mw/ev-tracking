@@ -13,7 +13,7 @@ mods:
       - Tribunal.bsa
       - Bloodmoon.bsa
 
-  - name: Tamriel Data (HD)
+  - name: Tamriel_Data (HD)
     url: https://www.nexusmods.com/morrowind/mods/59927
     download_info:
       - file_name: Tamriel Data (HD)
@@ -37,6 +37,13 @@ mods:
     plugins:
       - OAAB_Data.esm
       - OAAB_Data.omwscripts
+
+  - name: Follower Detection Util (OpenMW)
+    url: https://www.nexusmods.com/morrowind/mods/58053
+    download_info:
+      - file_name: Follower Detection Util
+    plugins:
+      - FollowerDetectionUtil.omwscripts
 
   - name: Static Switching System
     url: https://www.nexusmods.com/morrowind/mods/57282

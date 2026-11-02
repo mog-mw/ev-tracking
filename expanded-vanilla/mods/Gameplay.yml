@@ -21,19 +21,19 @@ mods:
       - SPT Limits.esp
       - SPT Limits.omwscripts
 
+  - name: Best Friends Forever (OpenMW)
+    url: https://www.nexusmods.com/morrowind/mods/59384
+    download_info:
+      - file_name: BestFriendsForever
+    plugins:
+      - BestFriendsForever.omwscripts
+
   - name: Friendlier Fire (OpenMW)
     url: https://www.nexusmods.com/morrowind/mods/57975
     download_info:
       - file_name: Friendlier Fire
     plugins:
       - FriendlierFire.omwscripts
-
-  - name: Follower Detection Util (OpenMW)
-    url: https://www.nexusmods.com/morrowind/mods/58053
-    download_info:
-      - file_name: Follower Detection Util
-    plugins:
-      - FollowerDetectionUtil.omwscripts
 
   - name: Expansions Integrated
     url: https://www.nexusmods.com/morrowind/mods/47861
@@ -82,7 +82,7 @@ mods:
       - go-home-locking-doors.omwscripts
 
   - name: Light Hotkey
-    url: https://modding-openmw.gitlab.io/light-hotkey/
+    url: https://www.nexusmods.com/morrowind/mods/60740
     download_info:
       - file_name: Light Hotkey
     plugins:
@@ -208,10 +208,3 @@ mods:
       - file_name: Smart Ammo for OpenMW-Lua
     plugins:
       - smart-ammo.omwscripts
-
-  - name: Best Friends Forever (OpenMW)
-    url: https://www.nexusmods.com/morrowind/mods/59384
-    download_info:
-      - file_name: BestFriendsForever
-    plugins:
-      - BestFriendsForever.omwscripts

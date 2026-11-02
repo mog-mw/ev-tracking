@@ -384,17 +384,6 @@ mods:
     plugins:
       - AFFA_Wilhelm_TopicFix.esp
 
-  - name: Inventory Extender Tweaks
-    url: https://modding-openmw.com/mods/inventory-extender-tweaks
-    download_info:
-      - direct_download: https://gitlab.com/andrii.gook/inventoryextender/-/archive/public-tweaks/inventoryextender-public-tweaks.zip
-        file_name: Inventory Extender Tweaks
-        actions:
-          - action: remove
-            path: inventoryextender-public-tweaks/InventoryExtender.omwscripts
-    data_paths:
-      - inventoryextender-public-tweaks
-
   - name: Elodie's Mystic Minimods
     url: https://www.nexusmods.com/morrowind/mods/47266
     download_info:

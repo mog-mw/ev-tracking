@@ -176,6 +176,7 @@ OpenMWContainersAnimated/Containers Animated
 OpenMWContainersAnimated/Optional/kollops
 OpenMWVanillaFriendlyAnimatedBasketEdit/00 Core
 OpenMWVanillaFriendlyAnimatedBasketEdit/01 HD Textures
+PikachunoTMsArtifactMeshImprovements/00 Core
 KnowThyAncestors
 MOMWPatches/03 KTA Redux + Valley of the Wind Overhaul Fix/02 Legacy
 Dunmersashpits/Data files
@@ -482,8 +483,7 @@ VariousModsandPatches/creatures_restored/01 Bloodmoon Rebalance Patch
 StatsWindowExtenderOpenMW
 MagicWindowExtenderOpenMW
 SpellTraderOpenMW
-InventoryExtenderOpenMW
-InventoryExtenderTweaks/inventoryextender-public-tweaks
+InventoryExtenderRedone/InventoryExtenderRedone
 NaturalCharacterGrowth/00 Core
 NaturalCharacterGrowth/01 NCG - Normal
 SkillEvolution/00 Core
@@ -543,6 +543,7 @@ ProtectedBeasts/03 Boots for Beasts
 ProtectedBeasts/04 Boots for Beasts Tamriel Data
 ProtectedBeasts/05 Hist Helms
 DynamicTelvanniArmorReplacer
+PikachunoTMsArtifactMeshImprovements/02 Transparent Ice Blade of the Monarch with Particle Effects
 CorrectIronWarhammer/Data Files
 OrientalMeshImprovements
 WeaponSheathing/Data Files

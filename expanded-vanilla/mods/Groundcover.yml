@@ -90,3 +90,7 @@ mods:
       - file_name: SHotN Grass
     groundcover:
       - Sky_Grass.esp
+    settings: |
+      [Groundcover]
+      enabled = true
+      stomp intensity = 2
