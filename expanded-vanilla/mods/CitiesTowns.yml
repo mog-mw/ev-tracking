@@ -286,8 +286,9 @@ mods:
       - file_name: OAAB Grazelands
     data_paths:
       - 00 Core
+      - 01 OpenMW Addons
       - 03 HD Textures
-      - 01 Remiros Groundcover GL Patch for Trackless Grazelands
+      - 04 Remiros Groundcover GL Patch for Trackless Grazelands
     plugins:
       - OAAB_Grazelands.ESP
     groundcover:

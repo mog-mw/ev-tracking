@@ -95,6 +95,7 @@ mods:
       - 03 Music (OpenMW - S3maphore)
       - 00 Core
       - 02 HD Textures
+      - 04 Silent Voices
       - 01 OpenMW Addons
     plugins:
       - TheSearchForTheWhiteWave.ESP

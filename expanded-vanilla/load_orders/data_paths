@@ -205,6 +205,7 @@ OAABTheAshenDivide
 ValleyoftheWindOverhaul/Valley of the Wind Overhaul
 AzurasCoastRedone
 OAABGrazelands/00 Core
+OAABGrazelands/01 OpenMW Addons
 OAABGrazelands/03 HD Textures
 MOMWPatches/01 OAAB Grazelands+Mines and Caverns Patch
 MOMWPatches/08 Trackless Grazeland For OpenMW
@@ -623,6 +624,7 @@ MOMWPatches/28 The Popular Plague Lua Patch
 AColdCell/00 Core
 TheSearchfortheWhiteWave/00 Core
 TheSearchfortheWhiteWave/02 HD Textures
+TheSearchfortheWhiteWave/04 Silent Voices
 ThePatchworkAirshipFleshingoutavanillaquest/00 Core
 ThePatchworkAirshipFleshingoutavanillaquest/01 Tomb of the Snow Prince Patch
 TheMananautsMessage/00 Core
@@ -713,14 +715,14 @@ LushSynthesis/LUSH_UNDERWATER
 FantasiaGrassModLushSynthesisTRUpdate/Lush Synthesis - TR/Data files
 RemirosGroundcover/00 Core OpenMW
 RemirosGroundcover/01b Thicker Grass OpenMW
-RemirosGroundcoverTexturesImprovement
+RemirosGroundcoverImprovement
 SolstheimTomboftheSnowPrince/012 Remiros' Groundcover for TOTSP
 BeautifulCitiesofMorrowind/05 Grass Patches/01 Remiros Groundcover
 MOMWPatches/24 BCOM+Dagon Fel Lighthouse+Remiros' Groundcover Patch
 BeautifulCitiesofMorrowind/05 Grass Patches/02 Caldera Priory Grass Patches
 MOMWPatches/51 Remiros AI MOMW Patch
 MOMWPatches/61 Remiros BC MOMW Patch
-OAABGrazelands/01 Remiros Groundcover GL Patch for Trackless Grazelands
+OAABGrazelands/04 Remiros Groundcover GL Patch for Trackless Grazelands
 DistantSeafloorforOpenMW/00 Core
 DistantSeafloorforOpenMW/01 Patch for TOTSP 2.3.0 Solstheim location
 SkiesIV/Skies - .IV

@@ -32,10 +32,11 @@ mods:
       enabled = true
       stomp intensity = 2
 
-  - name: Remiros Groundcover Textures Improvement
+  - name: Remiros Groundcover Improvement
     url: https://www.nexusmods.com/morrowind/mods/54261
     download_info:
       - file_name: remiros_groundcover_textures_improvement
+      - file_name: remiros_groundcover_mesh_fix
 
   - name: OAAB Saplings
     url: https://www.nexusmods.com/morrowind/mods/50334
