@@ -1,11 +1,6 @@
 category: FurnitureandClutter
 
 mods:
-  - name: OpenMW vanilla candles patched with Enlightened Flames and ILFAS
-    url: https://www.nexusmods.com/morrowind/mods/54155
-    download_info:
-      - file_name: OpenMW vanilla candles ILFAS Enlightened Flames
-
   - name: Dunmer Lanterns Replacer
     url: https://www.nexusmods.com/morrowind/mods/43219
     download_info:

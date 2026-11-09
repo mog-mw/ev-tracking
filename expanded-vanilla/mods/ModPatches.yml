@@ -210,7 +210,7 @@ mods:
   - name: Animated Morrowind and Weapon Sheathing patch for OpenMW
     url: https://www.nexusmods.com/morrowind/mods/53479
     download_info:
-      - file_name: Morrowind_OpenMW_Weapon Sheathing patch 1.2
+      - file_name: Morrowind_OpenMW_Weapon Sheathing patch
 
   - name: Various tweaks and fixes
     url: https://www.nexusmods.com/morrowind/mods/43795

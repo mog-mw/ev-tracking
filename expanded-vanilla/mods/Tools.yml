@@ -6,6 +6,6 @@ mods:
     plugins:
       - delta-merged.omwaddon
       - deleted_groundcover.omwaddon
-      - S3LightFixes.omwaddon
+      - Lumenaire.omwaddon
     groundcover:
       - groundcover.omwaddon

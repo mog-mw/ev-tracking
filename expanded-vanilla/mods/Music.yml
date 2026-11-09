@@ -5,6 +5,22 @@ mods:
     url: https://www.nexusmods.com/morrowind/mods/56836
     download_info:
       - file_name: S3maphore
+        actions:
+          - action: copy
+            src: 00 Core/l10n/S3Music/en.yaml
+            dst: 01 Tamriel Rebuilt Playlists/textures/workaround01.dds
+          - action: copy
+            src: 00 Core/l10n/S3Music/en.yaml
+            dst: 02 Project Cyrodiil Playlists/textures/workaround02.dds
+          - action: copy
+            src: 00 Core/l10n/S3Music/en.yaml
+            dst: 03 Muse Expansion Playlists/textures/workaround03.dds
+          - action: copy
+            src: 00 Core/l10n/S3Music/en.yaml
+            dst: 04 Vindsvept Solstheim/textures/workaround04.dds
+          - action: copy
+            src: 00 Core/l10n/S3Music/en.yaml
+            dst: 05 Secrets of the Crystal City/textures/workaround05.dds
     data_paths:
       - 00 Core
       - 01 Tamriel Rebuilt Playlists

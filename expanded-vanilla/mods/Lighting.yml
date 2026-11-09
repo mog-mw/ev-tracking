@@ -12,6 +12,13 @@ mods:
       [Shaders]
       clamp lighting = false
 
+  - name: Enlightened Flames
+    url: https://www.nexusmods.com/morrowind/mods/48816
+    download_info:
+      - file_name: Enlightened Flames 1.1
+    data_paths:
+      - 01 Enlightened Flames
+
   - name: Improved Lights for All Shaders Patch Hub
     url: https://www.nexusmods.com/morrowind/mods/60577
     download_info:
