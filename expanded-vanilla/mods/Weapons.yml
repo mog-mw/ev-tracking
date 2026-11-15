@@ -49,3 +49,10 @@ mods:
       - file_name: Improved Thrown Weapon Projectiles
     data_paths:
       - Data Files
+
+  - name: Slightly Better Nordic Silver Claymore
+    url: https://www.nexusmods.com/morrowind/mods/60333
+    download_info:
+      - file_name: SlightlyBetterNordicSilverClaymore
+    data_paths:
+      - SlightlyBetterNordicSilverClaymore

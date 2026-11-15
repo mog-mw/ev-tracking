@@ -54,7 +54,7 @@ mods:
     url: https://www.nexusmods.com/morrowind/mods/57510
     download_info:
       - file_name: LeaveTheLightsOff
-        nexus_file_id: 1000066569
+        nexus_file_id: 1000073993
     data_paths:
       - LeaveTheLightsOff
     plugins:

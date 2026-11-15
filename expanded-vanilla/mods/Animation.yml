@@ -28,12 +28,6 @@ mods:
     url: https://www.nexusmods.com/morrowind/mods/52596
     download_info:
       - file_name: ReAnimation v3 - Complete - OpenMW
-        actions:
-          - action: remove
-            paths:
-              - 00 Core/Animations/xbase_anim.1st/xDaggerIdle.kf
-              - 00 Core/Animations/xbase_anim.1st/xDaggerSneakIdle.kf
-              - 00 Core/Animations/xbase_anim.1st/xDaggerSneakMovement.kf
     data_paths:
       - 00 Core
       - 02 Thrown Weapon Projectiles Fix

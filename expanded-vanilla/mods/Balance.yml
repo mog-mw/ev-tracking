@@ -68,7 +68,7 @@ mods:
     data_paths:
       - 00 Core
     plugins:
-      - bms.omwscripts
+      - bms-IER.omwscripts
     settings: |
       [Game]
       trainers training skills based on base skill = true

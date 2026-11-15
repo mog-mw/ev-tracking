@@ -32,6 +32,8 @@ mods:
     url: https://www.nexusmods.com/morrowind/mods/57975
     download_info:
       - file_name: Friendlier Fire
+        nexus_file_id: 1000073105
+        pinned: true
     plugins:
       - FriendlierFire.omwscripts
 

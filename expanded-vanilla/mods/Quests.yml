@@ -91,10 +91,6 @@ mods:
     url: https://www.nexusmods.com/morrowind/mods/52301
     download_info:
       - file_name: The Search for the White Wave
-        actions:
-          - action: copy
-            src: 02 HD Textures/textures/mdww/m/mdww_silverlark.dds
-            dst: 03 Music (OpenMW - S3maphore)/textures/workaroundww.dds
     data_paths:
       - 03 Music (OpenMW - S3maphore)
       - 00 Core
@@ -178,13 +174,6 @@ mods:
       - 00 Core
     plugins:
       - A Cold Cell.ESP
-
-  - name: Galen's Quest for Truth
-    url: https://www.nexusmods.com/morrowind/mods/52884
-    download_info:
-      - file_name: Galen's Quest for Truth
-    plugins:
-      - Galen's Quest for Truth.ESP
 
   - name: Ebonheart Underworks
     url: https://www.nexusmods.com/morrowind/mods/47272

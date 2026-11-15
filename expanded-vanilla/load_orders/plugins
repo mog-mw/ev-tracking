@@ -108,7 +108,7 @@ wandering-creature-merchants-lua-edition.omwaddon
 Pickpocket Rebalance.omwaddon
 SPT Limits.esp
 SPT Limits.omwscripts
-bms.omwscripts
+bms-IER.omwscripts
 FtRP_Services.ESP
 PR Real Disposition Light.esp
 BCOM_Animated_GhostGate_Statues.ESP
@@ -138,7 +138,6 @@ Dwemer Airship.ESP
 Dwemer Airship_Exterior.ESP
 TheMananautsMessage.ESP
 PR Voice Overhaul.esp
-Galen's Quest for Truth.ESP
 Daedric Shrine Overhaul FULL.esp
 Daedric Shrine Overhaul Vaermina OpenMW Patch.esp
 UL_-_Daedric_Shrine_Overhaul_Sheogorath.esp
