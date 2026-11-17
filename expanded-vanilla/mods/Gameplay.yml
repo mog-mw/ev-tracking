@@ -25,6 +25,8 @@ mods:
     url: https://www.nexusmods.com/morrowind/mods/59384
     download_info:
       - file_name: BestFriendsForever
+        nexus_file_id: 1000067619
+        pinned: true
     plugins:
       - BestFriendsForever.omwscripts
 
