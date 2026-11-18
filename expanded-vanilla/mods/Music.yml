@@ -20,22 +20,28 @@ mods:
     url: https://www.nexusmods.com/morrowind/mods/54639
     download_info:
       - file_name: MUSE Expansion - Hlaalu
+      - file_name: MUSE Expansion - Hlaalu (S3maphore Patch)
     data_paths:
       - MUSE Expansion - Hlaalu
+      - MUSE Expansion - Hlaalu (S3maphore patch)
 
   - name: MUSE Music Expansion - Ashlander
     url: https://www.nexusmods.com/morrowind/mods/51255
     download_info:
       - file_name: MUSE Expansion - Ashlander
+      - file_name: MUSE Expansion - Ashlander (S3maphore Patch)
     data_paths:
       - MUSE Expansion - Ashlander
+      - MUSE Expansion - Ashlander (S3maphore patch)
 
   - name: MUSE Music Expansion - Redoran
     url: https://www.nexusmods.com/morrowind/mods/55082
     download_info:
       - file_name: MUSE Expansion - Redoran
+      - file_name: MUSE Expansion - Redoran (S3maphore Patch)
     data_paths:
       - MUSE Expansion - Redoran
+      - MUSE Expansion - Redoran (S3maphore patch)
 
   - name: MUSE Music Expansion - Sixth House
     url: https://www.nexusmods.com/morrowind/mods/51082
@@ -48,22 +54,28 @@ mods:
     url: https://www.nexusmods.com/morrowind/mods/51993
     download_info:
       - file_name: MUSE Expansion - Daedric
+      - file_name: MUSE Expansion - Daedric (S3maphore Patch)
     data_paths:
       - MUSE Expansion - Daedric
+      - MUSE Expansion - Daedric (S3maphore patch)
 
   - name: MUSE Music Expansion - Dwemer
     url: https://www.nexusmods.com/morrowind/mods/51169
     download_info:
       - file_name: MUSE Expansion - Dwemer
+      - file_name: MUSE Expansion - Dwemer (S3maphore Patch)
     data_paths:
-      - MUSE Expansion - Dwemer (Vanilla - Tribunal)
+      - MUSE Expansion - Dwemer
+      - MUSE Expansion - Dwemer (S3maphore patch)
 
   - name: MUSE Music Expansion - Tomb
     url: https://www.nexusmods.com/morrowind/mods/51407
     download_info:
       - file_name: MUSE Expansion - Tomb
+      - file_name: MUSE Expansion - Tomb (S3maphore Patch)
     data_paths:
-      - MUSE Expansion - Tomb (GOTY)
+      - MUSE Expansion - Tomb
+      - MUSE Expansion - Tomb (S3maphore patch)
 
   - name: Vindsvept Solstheim for Dynamic Music (OpenMW)
     url: https://www.nexusmods.com/morrowind/mods/53597
